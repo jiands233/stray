@@ -1,0 +1,482 @@
+[
+  {
+    "story_time": 56.0,
+    "hero_center_ndc": [
+      0.5088,
+      0.496,
+      8.5718
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Quarter_glass_L"
+  },
+  {
+    "story_time": 56.083333333333336,
+    "hero_center_ndc": [
+      0.5099,
+      0.494,
+      7.7232
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_5"
+  },
+  {
+    "story_time": 56.166666666666664,
+    "hero_center_ndc": [
+      0.5106,
+      0.4906,
+      7.1228
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 56.25,
+    "hero_center_ndc": [
+      0.5098,
+      0.4868,
+      6.8995
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 56.333333333333336,
+    "hero_center_ndc": [
+      0.5077,
+      0.4846,
+      7.1103
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.416666666666664,
+    "hero_center_ndc": [
+      0.5063,
+      0.4838,
+      7.7
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.5,
+    "hero_center_ndc": [
+      0.524,
+      0.4545,
+      8.5322
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.583333333333336,
+    "hero_center_ndc": [
+      0.5412,
+      0.4154,
+      9.4607
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.666666666666664,
+    "hero_center_ndc": [
+      0.5488,
+      0.3879,
+      10.3816
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 56.75,
+    "hero_center_ndc": [
+      0.55,
+      0.3729,
+      11.2112
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 56.833333333333336,
+    "hero_center_ndc": [
+      0.5485,
+      0.3656,
+      11.8755
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 56.916666666666664,
+    "hero_center_ndc": [
+      0.5468,
+      0.3624,
+      12.3119
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.0,
+    "hero_center_ndc": [
+      0.5462,
+      0.3614,
+      12.4684
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.083333333333336,
+    "hero_center_ndc": [
+      0.5461,
+      0.3615,
+      12.4723
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.166666666666664,
+    "hero_center_ndc": [
+      0.5459,
+      0.3617,
+      12.4794
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.25,
+    "hero_center_ndc": [
+      0.5456,
+      0.3619,
+      12.4901
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.333333333333336,
+    "hero_center_ndc": [
+      0.5451,
+      0.3622,
+      12.5036
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.416666666666664,
+    "hero_center_ndc": [
+      0.5446,
+      0.3625,
+      12.5203
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.5,
+    "hero_center_ndc": [
+      0.544,
+      0.3629,
+      12.5396
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.583333333333336,
+    "hero_center_ndc": [
+      0.5433,
+      0.3633,
+      12.5615
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.666666666666664,
+    "hero_center_ndc": [
+      0.5425,
+      0.3637,
+      12.5857
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.75,
+    "hero_center_ndc": [
+      0.5417,
+      0.3642,
+      12.6118
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.833333333333336,
+    "hero_center_ndc": [
+      0.5408,
+      0.3647,
+      12.6399
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.916666666666664,
+    "hero_center_ndc": [
+      0.5399,
+      0.3652,
+      12.67
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.0,
+    "hero_center_ndc": [
+      0.5389,
+      0.3658,
+      12.7014
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.083333333333336,
+    "hero_center_ndc": [
+      0.5379,
+      0.3663,
+      12.7341
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.166666666666664,
+    "hero_center_ndc": [
+      0.5368,
+      0.3669,
+      12.7682
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.25,
+    "hero_center_ndc": [
+      0.5358,
+      0.3675,
+      12.8029
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.333333333333336,
+    "hero_center_ndc": [
+      0.5347,
+      0.3681,
+      12.8385
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.416666666666664,
+    "hero_center_ndc": [
+      0.5336,
+      0.3687,
+      12.8747
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.5,
+    "hero_center_ndc": [
+      0.5326,
+      0.3692,
+      12.9109
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.583333333333336,
+    "hero_center_ndc": [
+      0.5315,
+      0.3698,
+      12.9472
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.666666666666664,
+    "hero_center_ndc": [
+      0.5305,
+      0.3704,
+      12.9836
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.75,
+    "hero_center_ndc": [
+      0.5295,
+      0.371,
+      13.0194
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.833333333333336,
+    "hero_center_ndc": [
+      0.5285,
+      0.3715,
+      13.0544
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 58.916666666666664,
+    "hero_center_ndc": [
+      0.5275,
+      0.3721,
+      13.0888
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.0,
+    "hero_center_ndc": [
+      0.5266,
+      0.3726,
+      13.1219
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.083333333333336,
+    "hero_center_ndc": [
+      0.5257,
+      0.3731,
+      13.1537
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.166666666666664,
+    "hero_center_ndc": [
+      0.5249,
+      0.3735,
+      13.1842
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.25,
+    "hero_center_ndc": [
+      0.5242,
+      0.3739,
+      13.2123
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.333333333333336,
+    "hero_center_ndc": [
+      0.5234,
+      0.3743,
+      13.2388
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.416666666666664,
+    "hero_center_ndc": [
+      0.5228,
+      0.3747,
+      13.2626
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.5,
+    "hero_center_ndc": [
+      0.5222,
+      0.375,
+      13.2838
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.583333333333336,
+    "hero_center_ndc": [
+      0.5217,
+      0.3752,
+      13.3024
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.666666666666664,
+    "hero_center_ndc": [
+      0.5213,
+      0.3755,
+      13.3179
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.75,
+    "hero_center_ndc": [
+      0.521,
+      0.3756,
+      13.3298
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.833333333333336,
+    "hero_center_ndc": [
+      0.5207,
+      0.3757,
+      13.3382
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 59.916666666666664,
+    "hero_center_ndc": [
+      0.5206,
+      0.3757,
+      13.3428
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  }
+]

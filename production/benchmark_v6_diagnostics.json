@@ -1,0 +1,45 @@
+{
+  "blender": "4.2.0",
+  "engine": "BLENDER_EEVEE_NEXT",
+  "objects": 3080,
+  "meshes": 1689,
+  "lights": [
+    {
+      "name": "hero moving softbox",
+      "type": "AREA",
+      "shadow": false,
+      "energy": 2200.0
+    },
+    {
+      "name": "hero moving softbox.001",
+      "type": "AREA",
+      "shadow": false,
+      "energy": 1600.0
+    },
+    {
+      "name": "hero moving softbox.002",
+      "type": "AREA",
+      "shadow": false,
+      "energy": 1800.0
+    },
+    {
+      "name": "night broad key",
+      "type": "SUN",
+      "shadow": true,
+      "energy": 1.5
+    },
+    {
+      "name": "V5 helicopter real searchlight",
+      "type": "SPOT",
+      "shadow": true,
+      "energy": 0.0
+    }
+  ],
+  "raytracing": false,
+  "taa_render_samples": 32,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "threads": 3
+}

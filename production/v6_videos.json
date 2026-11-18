@@ -1,0 +1,142 @@
+[
+  {
+    "file": "/workspace/stray/previews/repairs_v6/street_curl.mp4",
+    "name": "street_curl",
+    "start": 36,
+    "end": 40,
+    "fps": 12,
+    "frames": 48,
+    "engine": "BLENDER_WORKBENCH",
+    "resolution": [
+      640,
+      360
+    ],
+    "render_seconds": 67.29,
+    "folder": "/workspace/stray/previews/repairs_v6/street_curl",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "48"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "189"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "620181"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v6/spotlight.mp4",
+    "name": "spotlight",
+    "start": 24.2,
+    "end": 28.2,
+    "fps": 8,
+    "frames": 32,
+    "engine": "BLENDER_EEVEE_NEXT",
+    "resolution": [
+      480,
+      270
+    ],
+    "render_seconds": 128.84,
+    "folder": "/workspace/stray/previews/repairs_v6/spotlight",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 480,
+          "height": 270,
+          "r_frame_rate": "8/1",
+          "nb_frames": "32"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "189"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "556709"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v6/cockpit_entry.mp4",
+    "name": "cockpit_entry",
+    "start": 31,
+    "end": 33,
+    "fps": 12,
+    "frames": 24,
+    "engine": "BLENDER_EEVEE_NEXT",
+    "resolution": [
+      480,
+      270
+    ],
+    "render_seconds": 165.55,
+    "folder": "/workspace/stray/previews/repairs_v6/cockpit_entry",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 480,
+          "height": 270,
+          "r_frame_rate": "12/1",
+          "nb_frames": "24"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "95"
+        }
+      ],
+      "format": {
+        "duration": "2.000000",
+        "size": "310001"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v6/cockpit_exit.mp4",
+    "name": "cockpit_exit",
+    "start": 34,
+    "end": 36,
+    "fps": 12,
+    "frames": 24,
+    "engine": "BLENDER_EEVEE_NEXT",
+    "resolution": [
+      480,
+      270
+    ],
+    "render_seconds": 145.72,
+    "folder": "/workspace/stray/previews/repairs_v6/cockpit_exit",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 480,
+          "height": 270,
+          "r_frame_rate": "12/1",
+          "nb_frames": "24"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "95"
+        }
+      ],
+      "format": {
+        "duration": "2.000000",
+        "size": "283395"
+      }
+    }
+  }
+]

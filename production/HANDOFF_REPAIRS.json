@@ -1,0 +1,34 @@
+{
+  "status": "repair clips delivered for review; full preview NOT approved",
+  "priority_order": [
+    "/workspace/stray/previews/repairs_v5/cliff_reveal.mp4",
+    "/workspace/stray/previews/repairs_v5/fall_ignition.mp4",
+    "/workspace/stray/previews/repairs_v5/flight_tunnel.mp4"
+  ],
+  "other_clips": [
+    "tanker_collision.mp4",
+    "cockpit.mp4",
+    "street_curl.mp4",
+    "ring_context.mp4",
+    "screen_context.mp4"
+  ],
+  "clip_directory": "/workspace/stray/previews/repairs_v5",
+  "actual_resolution": [
+    640,
+    360
+  ],
+  "actual_fps": 12,
+  "full_final_render_started": false,
+  "v4_stopped_own_pid": 1051775,
+  "known_failures": [
+    "street_curl still occludes Hero in33/60 actual frames; NOT accepted",
+    "Tanker establishing frames temporarily omit Hero; collision and colored blast now visibly rendered but motion review required",
+    "Helicopter real spotlight constructed but no separate Eevee lighting clip rendered; NOT certified fixed",
+    "New Codex fleet and night-paint handoff not yet integrated into these camera repair tests",
+    "No updated optimization benchmark; old41h extrapolation is not final schedule",
+    "AI ads and surface polish paused by latest narrative-priority instruction"
+  ],
+  "flight_patch": "/workspace/stray/production/flight_patch_applied.json",
+  "readme": "/workspace/stray/previews/repairs_v5/REVIEW_FIRST.md",
+  "script": "/workspace/stray/production/staging_v5.py"
+}

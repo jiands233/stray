@@ -1,0 +1,35 @@
+STRAY Hero night-material / cockpit extension — tested delivery
+Blender 4.5.3 LTS, actual Codex CLI generation plus image-guided refinement and precise-bound validator fix. Only delivery directory written. No Mac or other pipeline directories used.
+
+Original assets.blend preserved byte-for-byte. SHA256: 4abbfbffba861de309978fdc225d803ac6cadf38273c151547c73e1baa7cd00f
+New file: assets_night.blend. Contains all four previous assets and new Hero_Cockpit child collection under Hero. The night paint material and transmissive clean glazing are saved in this variant, not merely preview memory.
+
+Reusable material-only entry:
+from runpy import run_path
+apply_hero_night_materials = run_path('/workspace/stray/assets/codex/hero_night_materials.py')['apply_hero_night_materials']
+apply_hero_night_materials()  # clear glass for windshield/cockpit shots
+apply_hero_night_materials(glass='dark')  # opaque exterior glass option
+Optional root=existing_hero_root supports renamed imports. It returns paint/glass material datablocks. Idempotent; no geometry, lights, camera, world, transform or visibility changes. Does not save files automatically.
+
+Cockpit entry:
+build_cockpit = run_path('/workspace/stray/assets/codex/build_cockpit.py')['build_cockpit']
+build_cockpit()  # uses existing Hero_Root, no duplicate root
+prepare_cabin_opening(root) is also exposed. It copies the deck mesh privately and removes only hidden central faces beneath canopy, keeping source mesh and exterior silhouette/roof. build_cockpit calls it automatically.
+
+Hierarchy: Hero collection -> Hero_Cockpit child collection; objects Hero_Root -> Hero_CockpitRoot -> interior objects and Hero_MapAnchor. Cockpit root has identity local transform. Root coordinates remain meter / +Y forward / Z up. Anchor local-to-Hero position (0, -0.04, 0.715)m, zero rotation, unit scale; hologram plane XY, +Z normal, +Y forward. Driver preview camera (-0.327,-0.530,0.966)m toward (-0.290,0.680,0.876)m.
+
+Interior: dashboard, steering wheel/spokes, digital instruments, center display/console, two seat cushions and backs, inner door cards/sill trim/headliner/floor. Existing front and side glass remain separate and get clear low-roughness transmission. No character or hologram map included; Hero_MapAnchor is the placement interface.
+
+Actual rendered inspection: hero_cockpit_preview.png shows unobstructed steering wheel, digital dashboard, windshield, mirrors/side glass, road and cyan/magenta markers outside. hero_cockpit_shoulder.png preserves first rear-shoulder view. Both are actual Blender geometry renders, not generated image stand-ins. Preview_Cockpit holds camera/lights/road markers, independent of asset and removable. Demo road is preview only, not film scene.
+
+Runtime: build/save/render exit0; cockpit validator exit0. 40/40 dedicated checks passed. Validates original hash, 4 assets, one existing Hero_Root, hierarchy, anchor axes, two builds idempotent without data growth, preservation of external objects/collections, repeated material IDs/settings, NO scene/light/camera/geometry/visibility material side effects, actual evaluated mesh/curve/font vertex bounds, exterior/roof unchanged, interior containment, hidden deck clearance, driver/passenger/camera windshield rays and forward clearance.
+Exterior true evaluated min(-1.004,-2.446699,0) max(1.004,2.412993,1.2)m unchanged. Interior true min(-.655,-1.1345,.28) max(.655,.726,1.101361)m. Root/scales unchanged.
+CPU Cycles24 samples denoised1280x800, fixed4threads, only sequential single Blender processes.
+
+Commands (from this directory):
+./blender-4.5.3-linux-x64/blender -b assets.blend -t 4 --python-exit-code 1 --python build_cockpit.py -- --render
+./blender-4.5.3-linux-x64/blender -b assets_night.blend -t 4 --python-exit-code 1 --python validate_cockpit.py
+
+Append workflow: append Hero collection from assets_night.blend, which brings Hero_Cockpit child and original root. If Hero already exists in shot, run helpers instead of appending Hero_Cockpit alone (avoids importing a second parent root). Pipeline must choose new variant explicitly; old assets.blend unchanged.
+
+Scope/limitations: lightweight readable interior, not detailed simulation cockpit. Hologram content, characters, steering animation rig, shot/path animation, film/audio not produced. No whole fly-through trajectory was rendered; sampled interior sightline and clearance tests pass, so final push-through camera path still needs shot-specific checking. Geometry integration is not final film art approval. Original procedural CC0, no paid downloads/registration.

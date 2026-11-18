@@ -1,0 +1,602 @@
+[
+  {
+    "story_time": 35.0,
+    "hero_center_ndc": [
+      0.4059,
+      0.7649,
+      -1.4415
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 35.083333333333336,
+    "hero_center_ndc": [
+      0.2393,
+      1.2552,
+      -0.7923
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 35.166666666666664,
+    "hero_center_ndc": [
+      0.8698,
+      -0.6876,
+      1.0617
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 35.25,
+    "hero_center_ndc": [
+      0.6452,
+      -0.0377,
+      3.932
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 35.333333333333336,
+    "hero_center_ndc": [
+      0.5942,
+      0.0947,
+      7.567
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 35.416666666666664,
+    "hero_center_ndc": [
+      0.5703,
+      0.1518,
+      11.7061
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 35.5,
+    "hero_center_ndc": [
+      0.5565,
+      0.1828,
+      16.0956
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 35.583333333333336,
+    "hero_center_ndc": [
+      0.5478,
+      0.2017,
+      20.4862
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 35.666666666666664,
+    "hero_center_ndc": [
+      0.5421,
+      0.2138,
+      24.6306
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 06"
+  },
+  {
+    "story_time": 35.75,
+    "hero_center_ndc": [
+      0.5383,
+      0.2218,
+      28.2824
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 35.833333333333336,
+    "hero_center_ndc": [
+      0.5358,
+      0.227,
+      31.1956
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 35.916666666666664,
+    "hero_center_ndc": [
+      0.5343,
+      0.2299,
+      33.124
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 36.0,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 36.083333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 36.166666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 36.25,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 36.333333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 36.416666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 03"
+  },
+  {
+    "story_time": 36.5,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 03"
+  },
+  {
+    "story_time": 36.583333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 03"
+  },
+  {
+    "story_time": 36.666666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 02"
+  },
+  {
+    "story_time": 36.75,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 36.833333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 36.916666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.0,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8215
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.083333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8218
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.166666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8221
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.25,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8223
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.333333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8225
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.416666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8227
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 37.5,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8228
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 02"
+  },
+  {
+    "story_time": 37.583333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8229
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 03"
+  },
+  {
+    "story_time": 37.666666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8231
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 03"
+  },
+  {
+    "story_time": 37.75,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8231
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 03"
+  },
+  {
+    "story_time": 37.833333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8231
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 37.916666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8233
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 38.0,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8232
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 04"
+  },
+  {
+    "story_time": 38.083333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8232
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 38.166666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8231
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 38.25,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8231
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 05"
+  },
+  {
+    "story_time": 38.333333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8229
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 06"
+  },
+  {
+    "story_time": 38.416666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8228
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 06"
+  },
+  {
+    "story_time": 38.5,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8227
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 06"
+  },
+  {
+    "story_time": 38.583333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8226
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 07"
+  },
+  {
+    "story_time": 38.666666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8225
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 07"
+  },
+  {
+    "story_time": 38.75,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8222
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 07"
+  },
+  {
+    "story_time": 38.833333333333336,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.822
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 08"
+  },
+  {
+    "story_time": 38.916666666666664,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8217
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 08"
+  },
+  {
+    "story_time": 39.0,
+    "hero_center_ndc": [
+      0.5339,
+      0.2309,
+      33.8214
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 08"
+  },
+  {
+    "story_time": 39.083333333333336,
+    "hero_center_ndc": [
+      0.5354,
+      0.2244,
+      33.0197
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "folding road slab 09"
+  },
+  {
+    "story_time": 39.166666666666664,
+    "hero_center_ndc": [
+      0.5401,
+      0.2049,
+      30.8128
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.25,
+    "hero_center_ndc": [
+      0.5492,
+      0.1699,
+      27.5097
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.333333333333336,
+    "hero_center_ndc": [
+      0.5655,
+      0.1135,
+      23.4402
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.416666666666664,
+    "hero_center_ndc": [
+      0.5951,
+      0.0245,
+      18.9678
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.5,
+    "hero_center_ndc": [
+      0.6515,
+      -0.1158,
+      14.5229
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.583333333333336,
+    "hero_center_ndc": [
+      0.7599,
+      -0.3246,
+      10.6668
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.666666666666664,
+    "hero_center_ndc": [
+      0.9319,
+      -0.5434,
+      8.1735
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 39.75,
+    "hero_center_ndc": [
+      1.0482,
+      -0.5403,
+      7.8398
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 39.833333333333336,
+    "hero_center_ndc": [
+      0.9967,
+      -0.3343,
+      9.4528
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 39.916666666666664,
+    "hero_center_ndc": [
+      0.9129,
+      -0.1895,
+      11.3635
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  }
+]

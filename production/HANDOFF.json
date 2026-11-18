@@ -1,0 +1,26 @@
+{
+  "stage": "Integrated Hero animatic rendering; proxy complete; no final render started",
+  "supervisor_pid": 1051774,
+  "blender_pid": 1051775,
+  "complete_proxy_video": "/workspace/stray/previews/STRAY_proxy_v3_640x360_12fps.mp4",
+  "integrated_video_when_complete": "/workspace/stray/previews/STRAY_codex_v4_640x360_12fps.mp4",
+  "progress": "/workspace/stray/production/progress.json",
+  "log": "/workspace/stray/production/codex_animatic.log",
+  "job_state": "/workspace/stray/production/codex_job.json",
+  "not_final": "Both are 60 seconds at12 actual rendered fps,640x360, not final1080p60; no synthetic frame interpolation",
+  "remaining": [
+    "Police/Heli/Truck are proxy until Codex fleet handoff",
+    "AI billboards missing (first image request interrupted); procedural colored stand-ins",
+    "Comic halftone/hatching and impact accents not finished",
+    "Interior/dashboard only schematic, not detailed final cabin",
+    "Drop waveform aligned, but pre-drop silence and perceptual audio quality not auditioned",
+    "Siren is recorded German police, not certified NYPD",
+    "Camera/collision/roadcurl staging still needs supervisor video review"
+  ],
+  "measured": {
+    "proxy640_Eevee8samples_warm_seconds": 2.55,
+    "integrated640_Eevee32samples_warm_seconds": 6.25,
+    "proxy1080_Eevee32samples_single_frame_seconds": 41.01,
+    "1080_measurement_caveat": "Measured with concurrent low-res animatic. Simple3600-frame extrapolation ~41h; no final production-cost guarantee; integrated assets/art changes unbenchmarked."
+  }
+}

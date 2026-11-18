@@ -1,0 +1,28 @@
+[
+  {
+    "name": "quality32",
+    "samples": 32,
+    "seconds": 28.5495,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "path": "/workspace/stray/previews/repairs_v6/benchmark1080_quality32.png",
+    "shadows": true,
+    "compositor_glow": true,
+    "story_geometry_removed": false
+  },
+  {
+    "name": "fast4",
+    "samples": 4,
+    "seconds": 6.2012,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "path": "/workspace/stray/previews/repairs_v6/benchmark1080_fast4.png",
+    "shadows": false,
+    "compositor_glow": false,
+    "story_geometry_removed": false
+  }
+]

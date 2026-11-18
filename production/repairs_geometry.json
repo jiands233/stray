@@ -1,0 +1,82 @@
+[
+  {
+    "name": "tanker_collision",
+    "start": 20,
+    "end": 25,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 28.31,
+    "folder": "/workspace/stray/previews/repairs_v5/tanker_collision",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "cockpit",
+    "start": 31,
+    "end": 36,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 25.92,
+    "folder": "/workspace/stray/previews/repairs_v5/cockpit",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "street_curl",
+    "start": 35,
+    "end": 40,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 26.26,
+    "folder": "/workspace/stray/previews/repairs_v5/street_curl",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "ring_context",
+    "start": 40,
+    "end": 45,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 27.25,
+    "folder": "/workspace/stray/previews/repairs_v5/ring_context",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "screen_context",
+    "start": 45,
+    "end": 50,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 26.44,
+    "folder": "/workspace/stray/previews/repairs_v5/screen_context",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "cliff_reveal",
+    "start": 49,
+    "end": 54,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 27.57,
+    "folder": "/workspace/stray/previews/repairs_v5/cliff_reveal",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "fall_ignition",
+    "start": 53,
+    "end": 58,
+    "fps": 12,
+    "frames": 60,
+    "seconds_to_render": 27.15,
+    "folder": "/workspace/stray/previews/repairs_v5/fall_ignition",
+    "engine": "BLENDER_WORKBENCH"
+  },
+  {
+    "name": "flight_tunnel",
+    "start": 56,
+    "end": 60,
+    "fps": 12,
+    "frames": 48,
+    "seconds_to_render": 21.52,
+    "folder": "/workspace/stray/previews/repairs_v5/flight_tunnel",
+    "engine": "BLENDER_WORKBENCH"
+  }
+]

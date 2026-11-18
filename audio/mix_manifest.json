@@ -1,0 +1,17 @@
+{
+  "duration": 60,
+  "sample_rate": 48000,
+  "music_title": "Alive",
+  "music_author": "Punch Deck",
+  "publisher_bpm": 105,
+  "bpm_independently_measured": false,
+  "music_original_start_seconds": 44.573286,
+  "music_original_end_seconds": 104.573286,
+  "drop_source_seconds": 54.859,
+  "drop_picture_seconds": 10.285714,
+  "music_retimed": false,
+  "music_mid_cuts": false,
+  "music_silence_before_drop": "Not verified; no artificial silence inserted",
+  "diegetic_audio_time_mapping": "same world-time slowdowns as scene, recordings resampled not synthesized",
+  "audition_status": "NOT auditioned; waveform-based rough mix for supervisor review"
+}

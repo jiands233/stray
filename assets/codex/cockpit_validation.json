@@ -1,0 +1,87 @@
+{
+  "checks": {
+    "original_blend_matches_recorded_hash": true,
+    "four_assets_in_scene": true,
+    "one_hero_root_initially": true,
+    "material_repeat_uses_same_ids_and_values": true,
+    "materials_leave_geometry_transforms_lighting_and_visibility_alone": true,
+    "glass_is_low_roughness_transmission": true,
+    "repeat_keeps_collection": true,
+    "repeat_keeps_inventory_without_data_growth": true,
+    "trim_is_reused": true,
+    "build_preserves_external_objects_and_materials": true,
+    "build_preserves_external_collections_and_scene_studio": true,
+    "cockpit_parented_to_existing_root": true,
+    "hero_root_unique_and_untransformed": true,
+    "map_anchor_root_relative_position_and_axes": true,
+    "exterior_bounds_and_roof_preserved": true,
+    "interior_inside_exterior_bounds": true,
+    "open_deck_above_-0.36_-0.9": true,
+    "open_deck_above_-0.36_-0.35": true,
+    "open_deck_above_-0.36_0.13": true,
+    "open_deck_above_-0.36_0.53": true,
+    "open_deck_above_0_-0.9": true,
+    "open_deck_above_0_-0.35": true,
+    "open_deck_above_0_0.13": true,
+    "open_deck_above_0_0.53": true,
+    "open_deck_above_0.36_-0.9": true,
+    "open_deck_above_0.36_-0.35": true,
+    "open_deck_above_0.36_0.13": true,
+    "open_deck_above_0.36_0.53": true,
+    "deck_retained_at_cowl_and_haunch": true,
+    "front_and_side_panes_are_separate_and_share_clear_glass": true,
+    "driver_has_roof_clearance": true,
+    "driver_sees_windshield": true,
+    "driver_has_unobstructed_forward_ray": true,
+    "passenger_has_roof_clearance": true,
+    "passenger_sees_windshield": true,
+    "passenger_has_unobstructed_forward_ray": true,
+    "driver_camera_has_roof_clearance": true,
+    "driver_camera_sees_windshield": true,
+    "driver_camera_has_unobstructed_forward_ray": true,
+    "source_hash_unchanged_after_builds": true
+  },
+  "status": "passed",
+  "original_sha256": "4abbfbffba861de309978fdc225d803ac6cadf38273c151547c73e1baa7cd00f",
+  "exterior_bounds_before": [
+    [
+      -1.003999948501587,
+      -2.4466986656188965,
+      0.0
+    ],
+    [
+      1.003999948501587,
+      2.4129931926727295,
+      1.2000000476837158
+    ]
+  ],
+  "exterior_bounds_after": [
+    [
+      -1.003999948501587,
+      -2.4466986656188965,
+      0.0
+    ],
+    [
+      1.003999948501587,
+      2.4129931926727295,
+      1.2000000476837158
+    ]
+  ],
+  "interior_bounds": [
+    [
+      -0.6549999713897705,
+      -1.1345000267028809,
+      0.2800000011920929
+    ],
+    [
+      0.6549999713897705,
+      0.7260000109672546,
+      1.101360559463501
+    ]
+  ],
+  "map_anchor": [
+    0.0,
+    -0.03999999910593033,
+    0.7149999737739563
+  ]
+}

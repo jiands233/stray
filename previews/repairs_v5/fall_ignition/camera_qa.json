@@ -1,0 +1,602 @@
+[
+  {
+    "story_time": 53.0,
+    "hero_center_ndc": [
+      0.4984,
+      0.4945,
+      31.3103
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.083333333333336,
+    "hero_center_ndc": [
+      0.4977,
+      0.4921,
+      30.8589
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.166666666666664,
+    "hero_center_ndc": [
+      0.4969,
+      0.4892,
+      30.3797
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.25,
+    "hero_center_ndc": [
+      0.4962,
+      0.4859,
+      29.8859
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.333333333333336,
+    "hero_center_ndc": [
+      0.4956,
+      0.4826,
+      29.3865
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.416666666666664,
+    "hero_center_ndc": [
+      0.4951,
+      0.4797,
+      28.888
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.5,
+    "hero_center_ndc": [
+      0.4946,
+      0.4775,
+      28.3931
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.583333333333336,
+    "hero_center_ndc": [
+      0.4943,
+      0.476,
+      27.907
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.666666666666664,
+    "hero_center_ndc": [
+      0.4941,
+      0.4755,
+      27.434
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.75,
+    "hero_center_ndc": [
+      0.494,
+      0.4759,
+      26.9805
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.833333333333336,
+    "hero_center_ndc": [
+      0.4941,
+      0.4774,
+      26.5552
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.916666666666664,
+    "hero_center_ndc": [
+      0.4943,
+      0.4801,
+      26.1681
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_header"
+  },
+  {
+    "story_time": 54.0,
+    "hero_center_ndc": [
+      0.4949,
+      0.4837,
+      25.8303
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.083333333333336,
+    "hero_center_ndc": [
+      0.4957,
+      0.4877,
+      25.5521
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.166666666666664,
+    "hero_center_ndc": [
+      0.4969,
+      0.4915,
+      25.3374
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.25,
+    "hero_center_ndc": [
+      0.4981,
+      0.4945,
+      25.1839
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.333333333333336,
+    "hero_center_ndc": [
+      0.4993,
+      0.4965,
+      25.0878
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.416666666666664,
+    "hero_center_ndc": [
+      0.5003,
+      0.4976,
+      25.0489
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.5,
+    "hero_center_ndc": [
+      0.5012,
+      0.4982,
+      25.0712
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 54.583333333333336,
+    "hero_center_ndc": [
+      0.5021,
+      0.4983,
+      24.8714
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 54.666666666666664,
+    "hero_center_ndc": [
+      0.5029,
+      0.4981,
+      24.1928
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 54.75,
+    "hero_center_ndc": [
+      0.5037,
+      0.4979,
+      23.1352
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 54.833333333333336,
+    "hero_center_ndc": [
+      0.5045,
+      0.4976,
+      21.801
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Tire_Front_L"
+  },
+  {
+    "story_time": 54.916666666666664,
+    "hero_center_ndc": [
+      0.5054,
+      0.4974,
+      20.2927
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Tire_Front_L"
+  },
+  {
+    "story_time": 55.0,
+    "hero_center_ndc": [
+      0.5064,
+      0.4973,
+      18.7119
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Tire_Front_L"
+  },
+  {
+    "story_time": 55.083333333333336,
+    "hero_center_ndc": [
+      0.5076,
+      0.4974,
+      17.158
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Diamond_cut_rim_Front_L"
+  },
+  {
+    "story_time": 55.166666666666664,
+    "hero_center_ndc": [
+      0.5089,
+      0.4974,
+      15.7252
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Forged_barrel_Front_L"
+  },
+  {
+    "story_time": 55.25,
+    "hero_center_ndc": [
+      0.5102,
+      0.4976,
+      14.4989
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Tire_Front_L"
+  },
+  {
+    "story_time": 55.333333333333336,
+    "hero_center_ndc": [
+      0.5113,
+      0.4978,
+      13.5504
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 55.416666666666664,
+    "hero_center_ndc": [
+      0.5119,
+      0.4979,
+      12.9378
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 55.5,
+    "hero_center_ndc": [
+      0.5117,
+      0.4981,
+      12.7121
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 55.583333333333336,
+    "hero_center_ndc": [
+      0.5192,
+      0.5039,
+      12.538
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 55.666666666666664,
+    "hero_center_ndc": [
+      0.545,
+      0.5205,
+      12.0617
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "V5 dashboard"
+  },
+  {
+    "story_time": 55.75,
+    "hero_center_ndc": [
+      0.5966,
+      0.5451,
+      11.2956
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 55.833333333333336,
+    "hero_center_ndc": [
+      0.6905,
+      0.5617,
+      10.2064
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "V5 A pillar"
+  },
+  {
+    "story_time": 55.916666666666664,
+    "hero_center_ndc": [
+      0.8487,
+      0.5079,
+      8.7117
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_A_pillar_L"
+  },
+  {
+    "story_time": 56.0,
+    "hero_center_ndc": [
+      0.5088,
+      0.496,
+      8.5718
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Quarter_glass_L"
+  },
+  {
+    "story_time": 56.083333333333336,
+    "hero_center_ndc": [
+      0.5099,
+      0.494,
+      7.7232
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_5"
+  },
+  {
+    "story_time": 56.166666666666664,
+    "hero_center_ndc": [
+      0.5106,
+      0.4906,
+      7.1228
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 56.25,
+    "hero_center_ndc": [
+      0.5098,
+      0.4868,
+      6.8995
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 56.333333333333336,
+    "hero_center_ndc": [
+      0.5077,
+      0.4846,
+      7.1103
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.416666666666664,
+    "hero_center_ndc": [
+      0.5063,
+      0.4838,
+      7.7
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.5,
+    "hero_center_ndc": [
+      0.524,
+      0.4545,
+      8.5322
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.583333333333336,
+    "hero_center_ndc": [
+      0.5412,
+      0.4154,
+      9.4607
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 56.666666666666664,
+    "hero_center_ndc": [
+      0.5488,
+      0.3879,
+      10.3816
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 56.75,
+    "hero_center_ndc": [
+      0.55,
+      0.3729,
+      11.2112
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 56.833333333333336,
+    "hero_center_ndc": [
+      0.5485,
+      0.3656,
+      11.8755
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 56.916666666666664,
+    "hero_center_ndc": [
+      0.5468,
+      0.3624,
+      12.3119
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.0,
+    "hero_center_ndc": [
+      0.5462,
+      0.3614,
+      12.4684
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.083333333333336,
+    "hero_center_ndc": [
+      0.5461,
+      0.3615,
+      12.4723
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.166666666666664,
+    "hero_center_ndc": [
+      0.5459,
+      0.3617,
+      12.4794
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.25,
+    "hero_center_ndc": [
+      0.5456,
+      0.3619,
+      12.4901
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.333333333333336,
+    "hero_center_ndc": [
+      0.5451,
+      0.3622,
+      12.5036
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.416666666666664,
+    "hero_center_ndc": [
+      0.5446,
+      0.3625,
+      12.5203
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.5,
+    "hero_center_ndc": [
+      0.544,
+      0.3629,
+      12.5396
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.583333333333336,
+    "hero_center_ndc": [
+      0.5433,
+      0.3633,
+      12.5615
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.666666666666664,
+    "hero_center_ndc": [
+      0.5425,
+      0.3637,
+      12.5857
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.75,
+    "hero_center_ndc": [
+      0.5417,
+      0.3642,
+      12.6118
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.833333333333336,
+    "hero_center_ndc": [
+      0.5408,
+      0.3647,
+      12.6399
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 57.916666666666664,
+    "hero_center_ndc": [
+      0.5399,
+      0.3652,
+      12.67
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  }
+]

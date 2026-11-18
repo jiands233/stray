@@ -1,0 +1,8 @@
+{
+  "street_frames": 48,
+  "hero_center_outside_frames": 0,
+  "nonhero_first_hit_frames": 0,
+  "minimum_active_fold_to_hero_root_y_clearance_m": 13.513,
+  "benchmark_speedup_same_scene": 4.604,
+  "full_final_started": false
+}

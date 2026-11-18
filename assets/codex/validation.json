@@ -1,0 +1,645 @@
+{
+  "checks": {
+    "saved_hero_exists": true,
+    "saved_hero_visible": true,
+    "saved_root_at_origin": true,
+    "saved_names": true,
+    "saved_mesh_parentage": true,
+    "saved_all_parentage": true,
+    "saved_dimensions": true,
+    "saved_independent_Body": true,
+    "saved_independent_Glass": true,
+    "saved_independent_Headlights": true,
+    "saved_independent_Taillights": true,
+    "saved_independent_Wheel_Front_L": true,
+    "saved_contact_Wheel_Front_L": true,
+    "saved_spin_Wheel_Front_L": true,
+    "saved_independent_Wheel_Front_R": true,
+    "saved_contact_Wheel_Front_R": true,
+    "saved_spin_Wheel_Front_R": true,
+    "saved_independent_Wheel_Rear_L": true,
+    "saved_contact_Wheel_Rear_L": true,
+    "saved_spin_Wheel_Rear_L": true,
+    "saved_independent_Wheel_Rear_R": true,
+    "saved_contact_Wheel_Rear_R": true,
+    "saved_spin_Wheel_Rear_R": true,
+    "saved_forward_axis": true,
+    "other_data_preserved_first_build": true,
+    "built_root_at_origin": true,
+    "built_names": true,
+    "built_mesh_parentage": true,
+    "built_all_parentage": true,
+    "built_dimensions": true,
+    "built_independent_Body": true,
+    "built_independent_Glass": true,
+    "built_independent_Headlights": true,
+    "built_independent_Taillights": true,
+    "built_independent_Wheel_Front_L": true,
+    "built_contact_Wheel_Front_L": true,
+    "built_spin_Wheel_Front_L": true,
+    "built_independent_Wheel_Front_R": true,
+    "built_contact_Wheel_Front_R": true,
+    "built_spin_Wheel_Front_R": true,
+    "built_independent_Wheel_Rear_L": true,
+    "built_contact_Wheel_Rear_L": true,
+    "built_spin_Wheel_Rear_L": true,
+    "built_independent_Wheel_Rear_R": true,
+    "built_contact_Wheel_Rear_R": true,
+    "built_spin_Wheel_Rear_R": true,
+    "built_forward_axis": true,
+    "hero_collection_reused": true,
+    "idempotent_object_inventory": true,
+    "idempotent_hero_collection_count": true,
+    "other_data_preserved_second_build": true,
+    "rebuilt_root_at_origin": true,
+    "rebuilt_names": true,
+    "rebuilt_mesh_parentage": true,
+    "rebuilt_all_parentage": true,
+    "rebuilt_dimensions": true,
+    "rebuilt_independent_Body": true,
+    "rebuilt_independent_Glass": true,
+    "rebuilt_independent_Headlights": true,
+    "rebuilt_independent_Taillights": true,
+    "rebuilt_independent_Wheel_Front_L": true,
+    "rebuilt_contact_Wheel_Front_L": true,
+    "rebuilt_spin_Wheel_Front_L": true,
+    "rebuilt_independent_Wheel_Front_R": true,
+    "rebuilt_contact_Wheel_Front_R": true,
+    "rebuilt_spin_Wheel_Front_R": true,
+    "rebuilt_independent_Wheel_Rear_L": true,
+    "rebuilt_contact_Wheel_Rear_L": true,
+    "rebuilt_spin_Wheel_Rear_L": true,
+    "rebuilt_independent_Wheel_Rear_R": true,
+    "rebuilt_contact_Wheel_Rear_R": true,
+    "rebuilt_spin_Wheel_Rear_R": true,
+    "rebuilt_forward_axis": true,
+    "Police_saved_exists": true,
+    "Police_saved_hidden": true,
+    "Police_saved_root_at_origin": true,
+    "Police_saved_axis_and_units": true,
+    "Police_saved_names": true,
+    "Police_saved_parentage": true,
+    "Police_saved_materials": true,
+    "Police_saved_dimensions": true,
+    "Police_saved_ground": true,
+    "Police_saved_independent_Body": true,
+    "Police_saved_independent_Glass": true,
+    "Police_saved_independent_Headlights": true,
+    "Police_saved_independent_Taillights": true,
+    "Police_saved_independent_Lightbar_Red": true,
+    "Police_saved_independent_Lightbar_Blue": true,
+    "Police_saved_independent_wheel_Front_L": true,
+    "Police_saved_contact_Front_L": true,
+    "Police_saved_position_Front_L": true,
+    "Police_saved_spin_Front_L": true,
+    "Police_saved_independent_wheel_Front_R": true,
+    "Police_saved_contact_Front_R": true,
+    "Police_saved_position_Front_R": true,
+    "Police_saved_spin_Front_R": true,
+    "Police_saved_independent_wheel_Rear_L": true,
+    "Police_saved_contact_Rear_L": true,
+    "Police_saved_position_Rear_L": true,
+    "Police_saved_spin_Rear_L": true,
+    "Police_saved_independent_wheel_Rear_R": true,
+    "Police_saved_contact_Rear_R": true,
+    "Police_saved_position_Rear_R": true,
+    "Police_saved_spin_Rear_R": true,
+    "Police_saved_emitter_Red": true,
+    "Police_saved_emitter_Blue": true,
+    "Police_saved_lettering_L": true,
+    "Police_saved_lettering_R": true,
+    "Police_foreign_data_after_build": true,
+    "Police_built_root_at_origin": true,
+    "Police_built_axis_and_units": true,
+    "Police_built_names": true,
+    "Police_built_parentage": true,
+    "Police_built_materials": true,
+    "Police_built_dimensions": true,
+    "Police_built_ground": true,
+    "Police_built_independent_Body": true,
+    "Police_built_independent_Glass": true,
+    "Police_built_independent_Headlights": true,
+    "Police_built_independent_Taillights": true,
+    "Police_built_independent_Lightbar_Red": true,
+    "Police_built_independent_Lightbar_Blue": true,
+    "Police_built_independent_wheel_Front_L": true,
+    "Police_built_contact_Front_L": true,
+    "Police_built_position_Front_L": true,
+    "Police_built_spin_Front_L": true,
+    "Police_built_independent_wheel_Front_R": true,
+    "Police_built_contact_Front_R": true,
+    "Police_built_position_Front_R": true,
+    "Police_built_spin_Front_R": true,
+    "Police_built_independent_wheel_Rear_L": true,
+    "Police_built_contact_Rear_L": true,
+    "Police_built_position_Rear_L": true,
+    "Police_built_spin_Rear_L": true,
+    "Police_built_independent_wheel_Rear_R": true,
+    "Police_built_contact_Rear_R": true,
+    "Police_built_position_Rear_R": true,
+    "Police_built_spin_Rear_R": true,
+    "Police_built_emitter_Red": true,
+    "Police_built_emitter_Blue": true,
+    "Police_built_lettering_L": true,
+    "Police_built_lettering_R": true,
+    "Police_local_foreign_object_preserved": true,
+    "Police_collection_reused": true,
+    "Police_idempotent_inventory": true,
+    "Police_collection_count": true,
+    "Police_foreign_data_after_rebuild": true,
+    "Police_rebuilt_root_at_origin": true,
+    "Police_rebuilt_axis_and_units": true,
+    "Police_rebuilt_names": true,
+    "Police_rebuilt_parentage": true,
+    "Police_rebuilt_materials": true,
+    "Police_rebuilt_dimensions": true,
+    "Police_rebuilt_ground": true,
+    "Police_rebuilt_independent_Body": true,
+    "Police_rebuilt_independent_Glass": true,
+    "Police_rebuilt_independent_Headlights": true,
+    "Police_rebuilt_independent_Taillights": true,
+    "Police_rebuilt_independent_Lightbar_Red": true,
+    "Police_rebuilt_independent_Lightbar_Blue": true,
+    "Police_rebuilt_independent_wheel_Front_L": true,
+    "Police_rebuilt_contact_Front_L": true,
+    "Police_rebuilt_position_Front_L": true,
+    "Police_rebuilt_spin_Front_L": true,
+    "Police_rebuilt_independent_wheel_Front_R": true,
+    "Police_rebuilt_contact_Front_R": true,
+    "Police_rebuilt_position_Front_R": true,
+    "Police_rebuilt_spin_Front_R": true,
+    "Police_rebuilt_independent_wheel_Rear_L": true,
+    "Police_rebuilt_contact_Rear_L": true,
+    "Police_rebuilt_position_Rear_L": true,
+    "Police_rebuilt_spin_Rear_L": true,
+    "Police_rebuilt_independent_wheel_Rear_R": true,
+    "Police_rebuilt_contact_Rear_R": true,
+    "Police_rebuilt_position_Rear_R": true,
+    "Police_rebuilt_spin_Rear_R": true,
+    "Police_rebuilt_emitter_Red": true,
+    "Police_rebuilt_emitter_Blue": true,
+    "Police_rebuilt_lettering_L": true,
+    "Police_rebuilt_lettering_R": true,
+    "Heli_saved_exists": true,
+    "Heli_saved_hidden": true,
+    "Heli_saved_root_at_origin": true,
+    "Heli_saved_axis_and_units": true,
+    "Heli_saved_names": true,
+    "Heli_saved_parentage": true,
+    "Heli_saved_materials": true,
+    "Heli_saved_dimensions": true,
+    "Heli_saved_ground": true,
+    "Heli_saved_independent_Body": true,
+    "Heli_saved_independent_Glass": true,
+    "Heli_saved_independent_Skids": true,
+    "Heli_saved_independent_MainRotor": true,
+    "Heli_saved_independent_TailRotor": true,
+    "Heli_saved_Main_blades": true,
+    "Heli_saved_Main_spin": true,
+    "Heli_saved_Tail_blades": true,
+    "Heli_saved_Tail_spin": true,
+    "Heli_saved_skid_contact_L": true,
+    "Heli_saved_skid_contact_R": true,
+    "Heli_saved_fuselage_length": true,
+    "Heli_foreign_data_after_build": true,
+    "Heli_built_root_at_origin": true,
+    "Heli_built_axis_and_units": true,
+    "Heli_built_names": true,
+    "Heli_built_parentage": true,
+    "Heli_built_materials": true,
+    "Heli_built_dimensions": true,
+    "Heli_built_ground": true,
+    "Heli_built_independent_Body": true,
+    "Heli_built_independent_Glass": true,
+    "Heli_built_independent_Skids": true,
+    "Heli_built_independent_MainRotor": true,
+    "Heli_built_independent_TailRotor": true,
+    "Heli_built_Main_blades": true,
+    "Heli_built_Main_spin": true,
+    "Heli_built_Tail_blades": true,
+    "Heli_built_Tail_spin": true,
+    "Heli_built_skid_contact_L": true,
+    "Heli_built_skid_contact_R": true,
+    "Heli_built_fuselage_length": true,
+    "Heli_local_foreign_object_preserved": true,
+    "Heli_collection_reused": true,
+    "Heli_idempotent_inventory": true,
+    "Heli_collection_count": true,
+    "Heli_foreign_data_after_rebuild": true,
+    "Heli_rebuilt_root_at_origin": true,
+    "Heli_rebuilt_axis_and_units": true,
+    "Heli_rebuilt_names": true,
+    "Heli_rebuilt_parentage": true,
+    "Heli_rebuilt_materials": true,
+    "Heli_rebuilt_dimensions": true,
+    "Heli_rebuilt_ground": true,
+    "Heli_rebuilt_independent_Body": true,
+    "Heli_rebuilt_independent_Glass": true,
+    "Heli_rebuilt_independent_Skids": true,
+    "Heli_rebuilt_independent_MainRotor": true,
+    "Heli_rebuilt_independent_TailRotor": true,
+    "Heli_rebuilt_Main_blades": true,
+    "Heli_rebuilt_Main_spin": true,
+    "Heli_rebuilt_Tail_blades": true,
+    "Heli_rebuilt_Tail_spin": true,
+    "Heli_rebuilt_skid_contact_L": true,
+    "Heli_rebuilt_skid_contact_R": true,
+    "Heli_rebuilt_fuselage_length": true,
+    "Truck_saved_exists": true,
+    "Truck_saved_hidden": true,
+    "Truck_saved_root_at_origin": true,
+    "Truck_saved_axis_and_units": true,
+    "Truck_saved_names": true,
+    "Truck_saved_parentage": true,
+    "Truck_saved_materials": true,
+    "Truck_saved_dimensions": true,
+    "Truck_saved_ground": true,
+    "Truck_saved_independent_Chassis": true,
+    "Truck_saved_independent_Cab": true,
+    "Truck_saved_independent_Glass": true,
+    "Truck_saved_independent_Tank": true,
+    "Truck_saved_independent_Headlights": true,
+    "Truck_saved_independent_Taillights": true,
+    "Truck_saved_independent_wheel_Front_L": true,
+    "Truck_saved_contact_Front_L": true,
+    "Truck_saved_position_Front_L": true,
+    "Truck_saved_spin_Front_L": true,
+    "Truck_saved_independent_wheel_Front_R": true,
+    "Truck_saved_contact_Front_R": true,
+    "Truck_saved_position_Front_R": true,
+    "Truck_saved_spin_Front_R": true,
+    "Truck_saved_independent_wheel_Rear1_L": true,
+    "Truck_saved_contact_Rear1_L": true,
+    "Truck_saved_position_Rear1_L": true,
+    "Truck_saved_spin_Rear1_L": true,
+    "Truck_saved_dual_contact_Rear1_L": true,
+    "Truck_saved_independent_wheel_Rear1_R": true,
+    "Truck_saved_contact_Rear1_R": true,
+    "Truck_saved_position_Rear1_R": true,
+    "Truck_saved_spin_Rear1_R": true,
+    "Truck_saved_dual_contact_Rear1_R": true,
+    "Truck_saved_independent_wheel_Rear2_L": true,
+    "Truck_saved_contact_Rear2_L": true,
+    "Truck_saved_position_Rear2_L": true,
+    "Truck_saved_spin_Rear2_L": true,
+    "Truck_saved_dual_contact_Rear2_L": true,
+    "Truck_saved_independent_wheel_Rear2_R": true,
+    "Truck_saved_contact_Rear2_R": true,
+    "Truck_saved_position_Rear2_R": true,
+    "Truck_saved_spin_Rear2_R": true,
+    "Truck_saved_dual_contact_Rear2_R": true,
+    "Truck_foreign_data_after_build": true,
+    "Truck_built_root_at_origin": true,
+    "Truck_built_axis_and_units": true,
+    "Truck_built_names": true,
+    "Truck_built_parentage": true,
+    "Truck_built_materials": true,
+    "Truck_built_dimensions": true,
+    "Truck_built_ground": true,
+    "Truck_built_independent_Chassis": true,
+    "Truck_built_independent_Cab": true,
+    "Truck_built_independent_Glass": true,
+    "Truck_built_independent_Tank": true,
+    "Truck_built_independent_Headlights": true,
+    "Truck_built_independent_Taillights": true,
+    "Truck_built_independent_wheel_Front_L": true,
+    "Truck_built_contact_Front_L": true,
+    "Truck_built_position_Front_L": true,
+    "Truck_built_spin_Front_L": true,
+    "Truck_built_independent_wheel_Front_R": true,
+    "Truck_built_contact_Front_R": true,
+    "Truck_built_position_Front_R": true,
+    "Truck_built_spin_Front_R": true,
+    "Truck_built_independent_wheel_Rear1_L": true,
+    "Truck_built_contact_Rear1_L": true,
+    "Truck_built_position_Rear1_L": true,
+    "Truck_built_spin_Rear1_L": true,
+    "Truck_built_dual_contact_Rear1_L": true,
+    "Truck_built_independent_wheel_Rear1_R": true,
+    "Truck_built_contact_Rear1_R": true,
+    "Truck_built_position_Rear1_R": true,
+    "Truck_built_spin_Rear1_R": true,
+    "Truck_built_dual_contact_Rear1_R": true,
+    "Truck_built_independent_wheel_Rear2_L": true,
+    "Truck_built_contact_Rear2_L": true,
+    "Truck_built_position_Rear2_L": true,
+    "Truck_built_spin_Rear2_L": true,
+    "Truck_built_dual_contact_Rear2_L": true,
+    "Truck_built_independent_wheel_Rear2_R": true,
+    "Truck_built_contact_Rear2_R": true,
+    "Truck_built_position_Rear2_R": true,
+    "Truck_built_spin_Rear2_R": true,
+    "Truck_built_dual_contact_Rear2_R": true,
+    "Truck_local_foreign_object_preserved": true,
+    "Truck_collection_reused": true,
+    "Truck_idempotent_inventory": true,
+    "Truck_collection_count": true,
+    "Truck_foreign_data_after_rebuild": true,
+    "Truck_rebuilt_root_at_origin": true,
+    "Truck_rebuilt_axis_and_units": true,
+    "Truck_rebuilt_names": true,
+    "Truck_rebuilt_parentage": true,
+    "Truck_rebuilt_materials": true,
+    "Truck_rebuilt_dimensions": true,
+    "Truck_rebuilt_ground": true,
+    "Truck_rebuilt_independent_Chassis": true,
+    "Truck_rebuilt_independent_Cab": true,
+    "Truck_rebuilt_independent_Glass": true,
+    "Truck_rebuilt_independent_Tank": true,
+    "Truck_rebuilt_independent_Headlights": true,
+    "Truck_rebuilt_independent_Taillights": true,
+    "Truck_rebuilt_independent_wheel_Front_L": true,
+    "Truck_rebuilt_contact_Front_L": true,
+    "Truck_rebuilt_position_Front_L": true,
+    "Truck_rebuilt_spin_Front_L": true,
+    "Truck_rebuilt_independent_wheel_Front_R": true,
+    "Truck_rebuilt_contact_Front_R": true,
+    "Truck_rebuilt_position_Front_R": true,
+    "Truck_rebuilt_spin_Front_R": true,
+    "Truck_rebuilt_independent_wheel_Rear1_L": true,
+    "Truck_rebuilt_contact_Rear1_L": true,
+    "Truck_rebuilt_position_Rear1_L": true,
+    "Truck_rebuilt_spin_Rear1_L": true,
+    "Truck_rebuilt_dual_contact_Rear1_L": true,
+    "Truck_rebuilt_independent_wheel_Rear1_R": true,
+    "Truck_rebuilt_contact_Rear1_R": true,
+    "Truck_rebuilt_position_Rear1_R": true,
+    "Truck_rebuilt_spin_Rear1_R": true,
+    "Truck_rebuilt_dual_contact_Rear1_R": true,
+    "Truck_rebuilt_independent_wheel_Rear2_L": true,
+    "Truck_rebuilt_contact_Rear2_L": true,
+    "Truck_rebuilt_position_Rear2_L": true,
+    "Truck_rebuilt_spin_Rear2_L": true,
+    "Truck_rebuilt_dual_contact_Rear2_L": true,
+    "Truck_rebuilt_independent_wheel_Rear2_R": true,
+    "Truck_rebuilt_contact_Rear2_R": true,
+    "Truck_rebuilt_position_Rear2_R": true,
+    "Truck_rebuilt_spin_Rear2_R": true,
+    "Truck_rebuilt_dual_contact_Rear2_R": true
+  },
+  "saved_bounds_m": {
+    "x": {
+      "min": -1.003999948501587,
+      "min_object": "Hero_Diamond_cut_rim_Rear_L",
+      "max": 1.003999948501587,
+      "max_object": "Hero_Diamond_cut_rim_Rear_R"
+    },
+    "y": {
+      "min": -2.4466986656188965,
+      "min_object": "Hero_Tail_light_bar_0",
+      "max": 2.4129931926727295,
+      "max_object": "Hero_Nose_signature"
+    },
+    "z": {
+      "min": 0.0,
+      "min_object": "Hero_Tire_Rear_L",
+      "max": 1.2000000476837158,
+      "max_object": "Hero_Roof_shell"
+    }
+  },
+  "saved_dimensions_m": {
+    "width": 2.007999897003174,
+    "length": 4.859691858291626,
+    "height": 1.2000000476837158
+  },
+  "saved_contacts_m": {
+    "Wheel_Front_L": 0.0,
+    "Wheel_Front_R": 0.0,
+    "Wheel_Rear_L": 0.0,
+    "Wheel_Rear_R": 0.0
+  },
+  "built_bounds_m": {
+    "x": {
+      "min": -1.003999948501587,
+      "min_object": "Hero_Diamond_cut_rim_Rear_L",
+      "max": 1.003999948501587,
+      "max_object": "Hero_Diamond_cut_rim_Rear_R"
+    },
+    "y": {
+      "min": -2.4466986656188965,
+      "min_object": "Hero_Tail_light_bar_0",
+      "max": 2.4129931926727295,
+      "max_object": "Hero_Nose_signature"
+    },
+    "z": {
+      "min": 0.0,
+      "min_object": "Hero_Tire_Rear_L",
+      "max": 1.2000000476837158,
+      "max_object": "Hero_Roof_shell"
+    }
+  },
+  "built_dimensions_m": {
+    "width": 2.007999897003174,
+    "length": 4.859691858291626,
+    "height": 1.2000000476837158
+  },
+  "built_contacts_m": {
+    "Wheel_Front_L": 0.0,
+    "Wheel_Front_R": 0.0,
+    "Wheel_Rear_L": 0.0,
+    "Wheel_Rear_R": 0.0
+  },
+  "rebuilt_bounds_m": {
+    "x": {
+      "min": -1.003999948501587,
+      "min_object": "Hero_Diamond_cut_rim_Rear_L",
+      "max": 1.003999948501587,
+      "max_object": "Hero_Diamond_cut_rim_Rear_R"
+    },
+    "y": {
+      "min": -2.4466986656188965,
+      "min_object": "Hero_Tail_light_bar_0",
+      "max": 2.4129931926727295,
+      "max_object": "Hero_Nose_signature"
+    },
+    "z": {
+      "min": 0.0,
+      "min_object": "Hero_Tire_Rear_L",
+      "max": 1.2000000476837158,
+      "max_object": "Hero_Roof_shell"
+    }
+  },
+  "rebuilt_dimensions_m": {
+    "width": 2.007999897003174,
+    "length": 4.859691858291626,
+    "height": 1.2000000476837158
+  },
+  "rebuilt_contacts_m": {
+    "Wheel_Front_L": 0.0,
+    "Wheel_Front_R": 0.0,
+    "Wheel_Rear_L": 0.0,
+    "Wheel_Rear_R": 0.0
+  },
+  "Police_saved_dimensions_m": {
+    "width": 2.2360000610351562,
+    "length": 5.269500017166138,
+    "height": 1.5709999799728394
+  },
+  "Police_saved_bounds_m": {
+    "x": [
+      -1.1180000305175781,
+      1.1180000305175781
+    ],
+    "y": [
+      -2.5785000324249268,
+      2.690999984741211
+    ],
+    "z": [
+      0.0,
+      1.5709999799728394
+    ]
+  },
+  "Police_built_dimensions_m": {
+    "width": 2.2360000610351562,
+    "length": 5.269500017166138,
+    "height": 1.5709999799728394
+  },
+  "Police_built_bounds_m": {
+    "x": [
+      -1.1180000305175781,
+      1.1180000305175781
+    ],
+    "y": [
+      -2.5785000324249268,
+      2.690999984741211
+    ],
+    "z": [
+      0.0,
+      1.5709999799728394
+    ]
+  },
+  "Police_rebuilt_dimensions_m": {
+    "width": 2.2360000610351562,
+    "length": 5.269500017166138,
+    "height": 1.5709999799728394
+  },
+  "Police_rebuilt_bounds_m": {
+    "x": [
+      -1.1180000305175781,
+      1.1180000305175781
+    ],
+    "y": [
+      -2.5785000324249268,
+      2.690999984741211
+    ],
+    "z": [
+      0.0,
+      1.5709999799728394
+    ]
+  },
+  "Heli_saved_dimensions_m": {
+    "width": 9.792708396911621,
+    "length": 12.568586826324463,
+    "height": 3.9639718532562256
+  },
+  "Heli_saved_bounds_m": {
+    "x": [
+      -4.8963541984558105,
+      4.8963541984558105
+    ],
+    "y": [
+      -5.507232666015625,
+      7.061354160308838
+    ],
+    "z": [
+      0.0,
+      3.9639718532562256
+    ]
+  },
+  "Heli_built_dimensions_m": {
+    "width": 9.792708396911621,
+    "length": 12.568586826324463,
+    "height": 3.9639718532562256
+  },
+  "Heli_built_bounds_m": {
+    "x": [
+      -4.8963541984558105,
+      4.8963541984558105
+    ],
+    "y": [
+      -5.507232666015625,
+      7.061354160308838
+    ],
+    "z": [
+      0.0,
+      3.9639718532562256
+    ]
+  },
+  "Heli_rebuilt_dimensions_m": {
+    "width": 9.792708396911621,
+    "length": 12.568586826324463,
+    "height": 3.9639718532562256
+  },
+  "Heli_rebuilt_bounds_m": {
+    "x": [
+      -4.8963541984558105,
+      4.8963541984558105
+    ],
+    "y": [
+      -5.507232666015625,
+      7.061354160308838
+    ],
+    "z": [
+      0.0,
+      3.9639718532562256
+    ]
+  },
+  "Truck_saved_dimensions_m": {
+    "width": 2.7660000324249268,
+    "length": 9.524499893188477,
+    "height": 3.4927783012390137
+  },
+  "Truck_saved_bounds_m": {
+    "x": [
+      -1.3830000162124634,
+      1.3830000162124634
+    ],
+    "y": [
+      -4.72599983215332,
+      4.798500061035156
+    ],
+    "z": [
+      0.0,
+      3.4927783012390137
+    ]
+  },
+  "Truck_built_dimensions_m": {
+    "width": 2.7660000324249268,
+    "length": 9.524499893188477,
+    "height": 3.4927783012390137
+  },
+  "Truck_built_bounds_m": {
+    "x": [
+      -1.3830000162124634,
+      1.3830000162124634
+    ],
+    "y": [
+      -4.72599983215332,
+      4.798500061035156
+    ],
+    "z": [
+      0.0,
+      3.4927783012390137
+    ]
+  },
+  "Truck_rebuilt_dimensions_m": {
+    "width": 2.7660000324249268,
+    "length": 9.524499893188477,
+    "height": 3.4927783012390137
+  },
+  "Truck_rebuilt_bounds_m": {
+    "x": [
+      -1.3830000162124634,
+      1.3830000162124634
+    ],
+    "y": [
+      -4.72599983215332,
+      4.798500061035156
+    ],
+    "z": [
+      0.0,
+      3.4927783012390137
+    ]
+  },
+  "passed": true
+}

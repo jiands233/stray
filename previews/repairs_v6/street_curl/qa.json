@@ -1,0 +1,818 @@
+[
+  {
+    "time": 36.0,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 707.058,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.083333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 708.642,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.166666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 710.238,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.25,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 711.847,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.333333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 713.468,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.416666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 715.104,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.5,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 716.754,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.583333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 718.419,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.666666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 720.101,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.75,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 721.799,
+    "max_fold_y": 710.0
+  },
+  {
+    "time": 36.833333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 723.514,
+    "max_fold_y": 710.001
+  },
+  {
+    "time": 36.916666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      12.0
+    ],
+    "hero_y": 725.248,
+    "max_fold_y": 710.013
+  },
+  {
+    "time": 37.0,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0904
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.99972,
+      12.00066
+    ],
+    "hero_y": 727.0,
+    "max_fold_y": 710.038
+  },
+  {
+    "time": 37.083333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.09
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.99405,
+      12.01388
+    ],
+    "hero_y": 728.776,
+    "max_fold_y": 710.074
+  },
+  {
+    "time": 37.166666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0897
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.98879,
+      12.02616
+    ],
+    "hero_y": 730.579,
+    "max_fold_y": 710.121
+  },
+  {
+    "time": 37.25,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0896
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.98417,
+      12.03693
+    ],
+    "hero_y": 732.408,
+    "max_fold_y": 710.176
+  },
+  {
+    "time": 37.333333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0893
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.98011,
+      12.04629
+    ],
+    "hero_y": 734.262,
+    "max_fold_y": 710.239
+  },
+  {
+    "time": 37.416666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0891
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97668,
+      12.05429
+    ],
+    "hero_y": 736.14,
+    "max_fold_y": 710.309
+  },
+  {
+    "time": 37.5,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0891
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97382,
+      12.061
+    ],
+    "hero_y": 738.04,
+    "max_fold_y": 710.384
+  },
+  {
+    "time": 37.583333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0889
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97141,
+      12.06649
+    ],
+    "hero_y": 739.962,
+    "max_fold_y": 710.464
+  },
+  {
+    "time": 37.666666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0888
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96952,
+      12.07078
+    ],
+    "hero_y": 741.905,
+    "max_fold_y": 710.546
+  },
+  {
+    "time": 37.75,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0888
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96818,
+      12.07395
+    ],
+    "hero_y": 743.867,
+    "max_fold_y": 710.631
+  },
+  {
+    "time": 37.833333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0887
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96732,
+      12.076
+    ],
+    "hero_y": 745.846,
+    "max_fold_y": 710.716
+  },
+  {
+    "time": 37.916666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0887
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96685,
+      12.07699
+    ],
+    "hero_y": 747.843,
+    "max_fold_y": 710.801
+  },
+  {
+    "time": 38.0,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0887
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96689,
+      12.07693
+    ],
+    "hero_y": 749.856,
+    "max_fold_y": 710.884
+  },
+  {
+    "time": 38.083333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0887
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96741,
+      12.07588
+    ],
+    "hero_y": 751.884,
+    "max_fold_y": 710.964
+  },
+  {
+    "time": 38.166666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0887
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96831,
+      12.07381
+    ],
+    "hero_y": 753.925,
+    "max_fold_y": 711.04
+  },
+  {
+    "time": 38.25,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0888
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.96951,
+      12.07076
+    ],
+    "hero_y": 755.979,
+    "max_fold_y": 711.111
+  },
+  {
+    "time": 38.333333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0889
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97129,
+      12.06674
+    ],
+    "hero_y": 758.044,
+    "max_fold_y": 711.176
+  },
+  {
+    "time": 38.416666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0889
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97337,
+      12.06176
+    ],
+    "hero_y": 760.119,
+    "max_fold_y": 712.539
+  },
+  {
+    "time": 38.5,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0891
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97609,
+      12.05583
+    ],
+    "hero_y": 762.204,
+    "max_fold_y": 714.88
+  },
+  {
+    "time": 38.583333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0892
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.97898,
+      12.04893
+    ],
+    "hero_y": 764.296,
+    "max_fold_y": 716.738
+  },
+  {
+    "time": 38.666666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0894
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.98232,
+      12.04109
+    ],
+    "hero_y": 766.395,
+    "max_fold_y": 718.057
+  },
+  {
+    "time": 38.75,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0896
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.98608,
+      12.03228
+    ],
+    "hero_y": 768.501,
+    "max_fold_y": 718.778
+  },
+  {
+    "time": 38.833333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0898
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.99036,
+      12.0225
+    ],
+    "hero_y": 770.61,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 38.916666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0902
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      27.99494,
+      12.01174
+    ],
+    "hero_y": 772.724,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.0,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0903
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0,
+      11.99999
+    ],
+    "hero_y": 774.839,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.083333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0907
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.00549,
+      11.98724
+    ],
+    "hero_y": 776.956,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.166666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.091
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.01129,
+      11.97345
+    ],
+    "hero_y": 779.073,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.25,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0913
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.01773,
+      11.95861
+    ],
+    "hero_y": 781.189,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.333333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0916
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.02451,
+      11.94269
+    ],
+    "hero_y": 783.303,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.416666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.092
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0317,
+      11.92566
+    ],
+    "hero_y": 785.413,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.5,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0924
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.03951,
+      11.90749
+    ],
+    "hero_y": 787.519,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.583333333333336,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0928
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.04765,
+      11.88815
+    ],
+    "hero_y": 789.62,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.666666666666664,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0933
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.05639,
+      11.86756
+    ],
+    "hero_y": 791.714,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.75,
+    "hero_center": [
+      0.4704,
+      0.2466,
+      30.0938
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.06564,
+      11.84569
+    ],
+    "hero_y": 793.8,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.833333333333336,
+    "hero_center": [
+      0.4704,
+      0.2467,
+      30.0943
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.0754,
+      11.82254
+    ],
+    "hero_y": 795.877,
+    "max_fold_y": 718.9
+  },
+  {
+    "time": 39.916666666666664,
+    "hero_center": [
+      0.4704,
+      0.2467,
+      30.0949
+    ],
+    "center_in_frame": true,
+    "first_object": "Hero_Panoramic_windshield",
+    "camera_root_local": [
+      -7.0,
+      28.08573,
+      11.79797
+    ],
+    "hero_y": 797.944,
+    "max_fold_y": 718.9
+  }
+]

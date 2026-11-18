@@ -1,0 +1,25 @@
+{
+  "duration": 60,
+  "final_fps": 60,
+  "preview_fps": 12,
+  "preview_resolution": [
+    640,
+    360
+  ],
+  "status": "codex animatic; not final",
+  "events": {
+    "jump": 7.8,
+    "drop_landing": 10.285714,
+    "tanker_collision": 22.5,
+    "barrier": 30,
+    "cockpit": 33.5,
+    "road_curl": 37,
+    "ring": 46,
+    "screen": 49.2,
+    "cliff_fall": 54,
+    "flight": 56
+  },
+  "assets": "codex",
+  "asset_file": "/workspace/stray/production/hero_asset_snapshot.blend",
+  "scene_note": "Snapshot only; motion is evaluated procedurally by update(t) in this script, not baked timeline keys"
+}

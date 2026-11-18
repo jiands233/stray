@@ -1,0 +1,49 @@
+{
+  "status": "four targeted clips and paired1080 benchmark complete; waiting coordinator review",
+  "directory": "/workspace/stray/previews/repairs_v6",
+  "videos": [
+    "/workspace/stray/previews/repairs_v6/street_curl.mp4",
+    "/workspace/stray/previews/repairs_v6/spotlight.mp4",
+    "/workspace/stray/previews/repairs_v6/cockpit_entry.mp4",
+    "/workspace/stray/previews/repairs_v6/cockpit_exit.mp4"
+  ],
+  "benchmarks": [
+    {
+      "name": "quality32",
+      "samples": 32,
+      "seconds": 28.5495,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "path": "/workspace/stray/previews/repairs_v6/benchmark1080_quality32.png",
+      "shadows": true,
+      "compositor_glow": true,
+      "story_geometry_removed": false
+    },
+    {
+      "name": "fast4",
+      "samples": 4,
+      "seconds": 6.2012,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "path": "/workspace/stray/previews/repairs_v6/benchmark1080_fast4.png",
+      "shadows": false,
+      "compositor_glow": false,
+      "story_geometry_removed": false
+    }
+  ],
+  "qa": {
+    "street_frames": 48,
+    "hero_center_outside_frames": 0,
+    "nonhero_first_hit_frames": 0,
+    "minimum_active_fold_to_hero_root_y_clearance_m": 13.513,
+    "benchmark_speedup_same_scene": 4.604,
+    "full_final_started": false
+  },
+  "script": "/workspace/stray/production/staging_v6.py",
+  "readme": "/workspace/stray/previews/repairs_v6/REVIEW_FIRST.md",
+  "no_final_render": true
+}

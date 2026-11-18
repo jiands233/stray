@@ -1,0 +1,602 @@
+[
+  {
+    "story_time": 45.0,
+    "hero_center_ndc": [
+      0.5117,
+      0.4817,
+      15.4546
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.083333333333336,
+    "hero_center_ndc": [
+      0.51,
+      0.4829,
+      15.4947
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.166666666666664,
+    "hero_center_ndc": [
+      0.5081,
+      0.484,
+      15.5305
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.25,
+    "hero_center_ndc": [
+      0.5062,
+      0.4848,
+      15.5621
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.333333333333336,
+    "hero_center_ndc": [
+      0.5042,
+      0.4853,
+      15.5899
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.416666666666664,
+    "hero_center_ndc": [
+      0.5021,
+      0.4856,
+      15.6143
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.5,
+    "hero_center_ndc": [
+      0.5,
+      0.4857,
+      15.6358
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.583333333333336,
+    "hero_center_ndc": [
+      0.4979,
+      0.4856,
+      15.6549
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.666666666666664,
+    "hero_center_ndc": [
+      0.4959,
+      0.4853,
+      15.672
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.75,
+    "hero_center_ndc": [
+      0.4939,
+      0.4848,
+      15.6875
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.833333333333336,
+    "hero_center_ndc": [
+      0.492,
+      0.4843,
+      15.7017
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 45.916666666666664,
+    "hero_center_ndc": [
+      0.4902,
+      0.4837,
+      15.7151
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 46.0,
+    "hero_center_ndc": [
+      0.4885,
+      0.4831,
+      15.7275
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 46.083333333333336,
+    "hero_center_ndc": [
+      0.487,
+      0.4826,
+      15.7348
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 46.166666666666664,
+    "hero_center_ndc": [
+      0.4857,
+      0.4821,
+      15.7329
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 46.25,
+    "hero_center_ndc": [
+      0.4846,
+      0.4817,
+      15.7225
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 46.333333333333336,
+    "hero_center_ndc": [
+      0.4837,
+      0.4814,
+      15.7038
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 46.416666666666664,
+    "hero_center_ndc": [
+      0.483,
+      0.4813,
+      15.6769
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 46.5,
+    "hero_center_ndc": [
+      0.4825,
+      0.4812,
+      15.642
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 46.583333333333336,
+    "hero_center_ndc": [
+      0.4822,
+      0.4811,
+      15.5988
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 46.666666666666664,
+    "hero_center_ndc": [
+      0.4821,
+      0.4812,
+      15.5474
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 46.75,
+    "hero_center_ndc": [
+      0.4822,
+      0.4813,
+      15.4875
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 46.833333333333336,
+    "hero_center_ndc": [
+      0.4824,
+      0.4814,
+      15.4193
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 46.916666666666664,
+    "hero_center_ndc": [
+      0.4827,
+      0.4815,
+      15.343
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 47.0,
+    "hero_center_ndc": [
+      0.483,
+      0.4816,
+      15.259
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_building"
+  },
+  {
+    "story_time": 47.083333333333336,
+    "hero_center_ndc": [
+      0.4834,
+      0.4817,
+      15.1678
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Door_shutline_L"
+  },
+  {
+    "story_time": 47.166666666666664,
+    "hero_center_ndc": [
+      0.4838,
+      0.4818,
+      15.0702
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 47.25,
+    "hero_center_ndc": [
+      0.4841,
+      0.4819,
+      14.9668
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Tire_Rear_L"
+  },
+  {
+    "story_time": 47.333333333333336,
+    "hero_center_ndc": [
+      0.4844,
+      0.482,
+      14.8586
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Forged_barrel_Rear_L"
+  },
+  {
+    "story_time": 47.416666666666664,
+    "hero_center_ndc": [
+      0.4846,
+      0.4821,
+      14.7463
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Forged_barrel_Rear_L"
+  },
+  {
+    "story_time": 47.5,
+    "hero_center_ndc": [
+      0.4848,
+      0.4822,
+      14.6306
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Spoke_Rear_L_5_-1"
+  },
+  {
+    "story_time": 47.583333333333336,
+    "hero_center_ndc": [
+      0.485,
+      0.4823,
+      14.5124
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Spoke_Rear_L_5_+1"
+  },
+  {
+    "story_time": 47.666666666666664,
+    "hero_center_ndc": [
+      0.4851,
+      0.4824,
+      14.3925
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Forged_barrel_Rear_L"
+  },
+  {
+    "story_time": 47.75,
+    "hero_center_ndc": [
+      0.4852,
+      0.4826,
+      14.2717
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Forged_barrel_Rear_L"
+  },
+  {
+    "story_time": 47.833333333333336,
+    "hero_center_ndc": [
+      0.4853,
+      0.4828,
+      14.1509
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Forged_barrel_Rear_L"
+  },
+  {
+    "story_time": 47.916666666666664,
+    "hero_center_ndc": [
+      0.4854,
+      0.483,
+      14.0308
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Tire_Rear_L"
+  },
+  {
+    "story_time": 48.0,
+    "hero_center_ndc": [
+      0.4856,
+      0.4832,
+      13.9122
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 48.083333333333336,
+    "hero_center_ndc": [
+      0.4858,
+      0.4834,
+      13.7963
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 48.166666666666664,
+    "hero_center_ndc": [
+      0.4862,
+      0.4836,
+      13.6836
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 48.25,
+    "hero_center_ndc": [
+      0.4867,
+      0.4839,
+      13.5753
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 48.333333333333336,
+    "hero_center_ndc": [
+      0.4874,
+      0.4841,
+      13.4725
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Haunch_L"
+  },
+  {
+    "story_time": 48.416666666666664,
+    "hero_center_ndc": [
+      0.4883,
+      0.4843,
+      13.3759
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 48.5,
+    "hero_center_ndc": [
+      0.4894,
+      0.4844,
+      13.2869
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Window_sill_L"
+  },
+  {
+    "story_time": 48.583333333333336,
+    "hero_center_ndc": [
+      0.4908,
+      0.4845,
+      13.2061
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 48.666666666666664,
+    "hero_center_ndc": [
+      0.4923,
+      0.4845,
+      13.1347
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 48.75,
+    "hero_center_ndc": [
+      0.494,
+      0.4843,
+      13.0733
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 48.833333333333336,
+    "hero_center_ndc": [
+      0.4959,
+      0.484,
+      13.0229
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 48.916666666666664,
+    "hero_center_ndc": [
+      0.4979,
+      0.4835,
+      12.9841
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.0,
+    "hero_center_ndc": [
+      0.4998,
+      0.4958,
+      14.2961
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.083333333333336,
+    "hero_center_ndc": [
+      0.4994,
+      0.496,
+      14.1686
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.166666666666664,
+    "hero_center_ndc": [
+      0.4988,
+      0.4962,
+      13.8181
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.25,
+    "hero_center_ndc": [
+      0.4982,
+      0.4963,
+      13.3314
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.333333333333336,
+    "hero_center_ndc": [
+      0.4975,
+      0.4963,
+      12.8209
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.416666666666664,
+    "hero_center_ndc": [
+      0.4969,
+      0.496,
+      12.415
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 49.5,
+    "hero_center_ndc": [
+      0.4966,
+      0.4954,
+      12.2391
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 49.583333333333336,
+    "hero_center_ndc": [
+      0.4968,
+      0.4948,
+      12.3858
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 49.666666666666664,
+    "hero_center_ndc": [
+      0.4973,
+      0.4945,
+      12.8844
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "billboard break shard.012"
+  },
+  {
+    "story_time": 49.75,
+    "hero_center_ndc": [
+      0.4981,
+      0.4947,
+      13.6924
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "V5 A pillar"
+  },
+  {
+    "story_time": 49.833333333333336,
+    "hero_center_ndc": [
+      0.4988,
+      0.4951,
+      14.7149
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 49.916666666666664,
+    "hero_center_ndc": [
+      0.4993,
+      0.4956,
+      15.834
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  }
+]

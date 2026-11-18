@@ -1,0 +1,12 @@
+[
+  {
+    "name": "custom_56.0_60.0",
+    "start": 56.0,
+    "end": 60.0,
+    "fps": 12,
+    "frames": 48,
+    "seconds_to_render": 21.69,
+    "folder": "/workspace/stray/previews/repairs_v5/custom_56.0_60.0",
+    "engine": "BLENDER_WORKBENCH"
+  }
+]

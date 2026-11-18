@@ -1,0 +1,602 @@
+[
+  {
+    "story_time": 49.0,
+    "hero_center_ndc": [
+      0.4998,
+      0.4958,
+      14.2961
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.083333333333336,
+    "hero_center_ndc": [
+      0.4994,
+      0.496,
+      14.1686
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.166666666666664,
+    "hero_center_ndc": [
+      0.4988,
+      0.4962,
+      13.8181
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.25,
+    "hero_center_ndc": [
+      0.4982,
+      0.4963,
+      13.3314
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.333333333333336,
+    "hero_center_ndc": [
+      0.4975,
+      0.4963,
+      12.8209
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 49.416666666666664,
+    "hero_center_ndc": [
+      0.4969,
+      0.496,
+      12.415
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 49.5,
+    "hero_center_ndc": [
+      0.4966,
+      0.4954,
+      12.2391
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 49.583333333333336,
+    "hero_center_ndc": [
+      0.4968,
+      0.4948,
+      12.3858
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 49.666666666666664,
+    "hero_center_ndc": [
+      0.4973,
+      0.4945,
+      12.8844
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "billboard break shard.012"
+  },
+  {
+    "story_time": 49.75,
+    "hero_center_ndc": [
+      0.4981,
+      0.4947,
+      13.6924
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "V5 A pillar"
+  },
+  {
+    "story_time": 49.833333333333336,
+    "hero_center_ndc": [
+      0.4988,
+      0.4951,
+      14.7149
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 49.916666666666664,
+    "hero_center_ndc": [
+      0.4993,
+      0.4956,
+      15.834
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.0,
+    "hero_center_ndc": [
+      0.4997,
+      0.4962,
+      16.9312
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.083333333333336,
+    "hero_center_ndc": [
+      0.4999,
+      0.4964,
+      17.893
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.166666666666664,
+    "hero_center_ndc": [
+      0.4999,
+      0.4966,
+      18.627
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.25,
+    "hero_center_ndc": [
+      0.5,
+      0.4967,
+      19.0497
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.333333333333336,
+    "hero_center_ndc": [
+      0.5,
+      0.4968,
+      19.1519
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.416666666666664,
+    "hero_center_ndc": [
+      0.5,
+      0.4968,
+      19.4496
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.5,
+    "hero_center_ndc": [
+      0.5001,
+      0.4969,
+      20.0412
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.583333333333336,
+    "hero_center_ndc": [
+      0.5001,
+      0.4971,
+      20.8912
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.666666666666664,
+    "hero_center_ndc": [
+      0.5001,
+      0.4972,
+      21.9617
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.75,
+    "hero_center_ndc": [
+      0.5001,
+      0.4973,
+      23.2095
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.833333333333336,
+    "hero_center_ndc": [
+      0.5001,
+      0.4975,
+      24.5849
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 50.916666666666664,
+    "hero_center_ndc": [
+      0.5001,
+      0.4976,
+      26.0327
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.0,
+    "hero_center_ndc": [
+      0.5001,
+      0.4977,
+      27.4934
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.083333333333336,
+    "hero_center_ndc": [
+      0.5,
+      0.4978,
+      28.9047
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.166666666666664,
+    "hero_center_ndc": [
+      0.5,
+      0.4979,
+      30.2025
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.25,
+    "hero_center_ndc": [
+      0.5,
+      0.4979,
+      31.3226
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.333333333333336,
+    "hero_center_ndc": [
+      0.5,
+      0.498,
+      32.2004
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.416666666666664,
+    "hero_center_ndc": [
+      0.5,
+      0.498,
+      32.7725
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.5,
+    "hero_center_ndc": [
+      0.5,
+      0.498,
+      32.9755
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.583333333333336,
+    "hero_center_ndc": [
+      0.5,
+      0.498,
+      32.9684
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.666666666666664,
+    "hero_center_ndc": [
+      0.5,
+      0.4979,
+      32.9513
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.75,
+    "hero_center_ndc": [
+      0.5,
+      0.4979,
+      32.9261
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.833333333333336,
+    "hero_center_ndc": [
+      0.4999,
+      0.4979,
+      32.8949
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 51.916666666666664,
+    "hero_center_ndc": [
+      0.4999,
+      0.4978,
+      32.8602
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.0,
+    "hero_center_ndc": [
+      0.4999,
+      0.4978,
+      32.8236
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.083333333333336,
+    "hero_center_ndc": [
+      0.4999,
+      0.4978,
+      32.7901
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.166666666666664,
+    "hero_center_ndc": [
+      0.4999,
+      0.4978,
+      32.7574
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.25,
+    "hero_center_ndc": [
+      0.4998,
+      0.4977,
+      32.7271
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.333333333333336,
+    "hero_center_ndc": [
+      0.4998,
+      0.4977,
+      32.7008
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.416666666666664,
+    "hero_center_ndc": [
+      0.4997,
+      0.4976,
+      32.6803
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.5,
+    "hero_center_ndc": [
+      0.4997,
+      0.4974,
+      32.6661
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.583333333333336,
+    "hero_center_ndc": [
+      0.4996,
+      0.4973,
+      32.6149
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.666666666666664,
+    "hero_center_ndc": [
+      0.4994,
+      0.497,
+      32.4858
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.75,
+    "hero_center_ndc": [
+      0.4993,
+      0.4967,
+      32.2849
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "CITY_road"
+  },
+  {
+    "story_time": 52.833333333333336,
+    "hero_center_ndc": [
+      0.4991,
+      0.4962,
+      32.0184
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 52.916666666666664,
+    "hero_center_ndc": [
+      0.4988,
+      0.4955,
+      31.6922
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.0,
+    "hero_center_ndc": [
+      0.4984,
+      0.4945,
+      31.3103
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.083333333333336,
+    "hero_center_ndc": [
+      0.4977,
+      0.4921,
+      30.8589
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.166666666666664,
+    "hero_center_ndc": [
+      0.4969,
+      0.4892,
+      30.3797
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.25,
+    "hero_center_ndc": [
+      0.4962,
+      0.4859,
+      29.8859
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.333333333333336,
+    "hero_center_ndc": [
+      0.4956,
+      0.4826,
+      29.3865
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Panoramic_windshield"
+  },
+  {
+    "story_time": 53.416666666666664,
+    "hero_center_ndc": [
+      0.4951,
+      0.4797,
+      28.888
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.5,
+    "hero_center_ndc": [
+      0.4946,
+      0.4775,
+      28.3931
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.583333333333336,
+    "hero_center_ndc": [
+      0.4943,
+      0.476,
+      27.907
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.666666666666664,
+    "hero_center_ndc": [
+      0.4941,
+      0.4755,
+      27.434
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.75,
+    "hero_center_ndc": [
+      0.494,
+      0.4759,
+      26.9805
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.833333333333336,
+    "hero_center_ndc": [
+      0.4941,
+      0.4774,
+      26.5552
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 53.916666666666664,
+    "hero_center_ndc": [
+      0.4943,
+      0.4801,
+      26.1681
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_header"
+  }
+]

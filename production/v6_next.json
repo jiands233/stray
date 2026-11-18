@@ -1,0 +1,44 @@
+[
+  {
+    "name": "street_curl",
+    "start": 36,
+    "end": 40,
+    "fps": 12,
+    "frames": 48,
+    "engine": "BLENDER_WORKBENCH",
+    "resolution": [
+      640,
+      360
+    ],
+    "render_seconds": 67.29,
+    "folder": "/workspace/stray/previews/repairs_v6/street_curl"
+  },
+  {
+    "name": "cockpit_entry",
+    "start": 31,
+    "end": 33,
+    "fps": 12,
+    "frames": 24,
+    "engine": "BLENDER_EEVEE_NEXT",
+    "resolution": [
+      480,
+      270
+    ],
+    "render_seconds": 165.55,
+    "folder": "/workspace/stray/previews/repairs_v6/cockpit_entry"
+  },
+  {
+    "name": "cockpit_exit",
+    "start": 34,
+    "end": 36,
+    "fps": 12,
+    "frames": 24,
+    "engine": "BLENDER_EEVEE_NEXT",
+    "resolution": [
+      480,
+      270
+    ],
+    "render_seconds": 145.72,
+    "folder": "/workspace/stray/previews/repairs_v6/cockpit_exit"
+  }
+]

@@ -1,0 +1,98 @@
+STRAY fleet delivery — actual tested result
+Portable Blender 4.5.3 LTS, Codex CLI 0.170.0. Main scripts actually generated and iteratively fixed with codex exec, not a hypothetical implementation. Source and all outputs only under /workspace/stray/assets/codex/.
+
+Implemented:
+Hero preserved: original geometry/interface and original 3 preview PNGs retained byte-for-byte (phase1_archive/ backups). Night look changes are in-memory only in render_hero_night.py.
+Police: black-white police sedan, POLICE markings/badges, pushbar, independent red/blue lightbar modules, four wheels, body/glass/front/rear light controls.
+Heli: complete cockpit/fuselage, engine pods/intakes/exhausts, tail boom/fins, skids/struts, four-blade main and tail rotors, police markings.
+Truck: complete heavy 3-axle rigid fuel tanker, red/cream cab, visible dark windshield and side windows, wipers, chassis, twin rear tires, rounded cylinder and domed heads, straps, manholes, ladder, top rails, pipework, placards and lights.
+
+Collections: Hero, Police, Heli, Truck. Roots: Hero_Root, Police_Root, Heli_Root, Truck_Root. All roots ground-origin, meter scale, Z up, +Y forward. Append the relevant asset collection only; enable it if its collection viewport/render visibility is off. Preview and Preview_Police/Heli/Truck are removable independent studio rigs.
+
+Animation:
+Hero_Wheel_Front_L/R, Hero_Wheel_Rear_L/R: local X spin.
+Police_Wheel_Front_L/R, Police_Wheel_Rear_L/R: local X spin.
+Police_Lightbar_Red / Police_Lightbar_Blue: separate geometry groups; flash emission strength on Police_Mat_red / Police_Mat_blue.
+Heli_MainRotor: local Z spin; Heli_TailRotor: local X spin. Four blade controls each under their corresponding rotor.
+Truck_Wheel_Front_L/R, Truck_Wheel_Rear1_L/R, Truck_Wheel_Rear2_L/R: local X spin; dual rear tires travel with their respective group.
+Separate body/cab/tank/glass/headlight/taillight controls detailed in README.
+
+Actual runtime tests:
+Final build + Truck-only corrected render: exit 0. Fleet preview build/render: exit 0. Night render: exit 0. Final validate_assets.py: exit 0.
+All fleet previews 1280x800 Cycles CPU 16 samples denoised. Hero night 1280x800 CPU24 samples denoised. All new renders strictly sequential single Blender processes, fixed max4 render threads / -t4, no concurrent rendering.
+Viewed all three pursuit renders and both night iterations. Fixed buried Truck windshield via Codex and confirmed new preview visibly has front and side dark glazing. Fixed TextCurve cleanup idempotence bug and truck glazing-angle runtime error via Codex.
+Validation: 376/376 checks passed, including bounds, roots, axis, wheel contact/spin, rotor axes/spin, components, parenting, repeat builds, external sentinel objects/collections and foreign-data preservation.
+Measured evaluated geometry dimensions (meters; includes mirrors / rotor sweep / railings as applicable):
+{
+  "Hero": {
+    "width": 2.007999897003174,
+    "length": 4.859691858291626,
+    "height": 1.2000000476837158
+  },
+  "Police": {
+    "width": 2.2360000610351562,
+    "length": 5.269500017166138,
+    "height": 1.5709999799728394
+  },
+  "Heli": {
+    "width": 9.792708396911621,
+    "length": 12.568586826324463,
+    "height": 3.9639718532562256
+  },
+  "Truck": {
+    "width": 2.7660000324249268,
+    "length": 9.524499893188477,
+    "height": 3.4927783012390137
+  }
+}
+
+Previews: hero_front_34.png, hero_rear_34.png, hero_side.png; police_preview.png, heli_preview.png, truck_preview.png; hero_night.png. fleet_contact_sheet.jpg and fleet_night_contact_sheet.jpg are montage sheets of those actual Blender renders (not stand-in models).
+
+Reproduce, from delivery directory:
+./blender-4.5.3-linux-x64/blender -b -t 4 --python-exit-code 1 --python build_assets.py -- --fleet-render --fleet-samples 16
+./blender-4.5.3-linux-x64/blender -b -t 4 --python-exit-code 1 --python build_assets.py -- --fleet-only Truck --fleet-samples 16
+./blender-4.5.3-linux-x64/blender -b assets.blend -t 4 --python-exit-code 1 --python render_hero_night.py
+./blender-4.5.3-linux-x64/blender -b assets.blend -t 4 --python-exit-code 1 --python validate_assets.py
+Original --render Hero 3-view function preserved; it is not invoked in this delivery, so prior Hero PNGs stay unchanged.
+
+Missing / limitations:
+No required asset builder remains unimplemented. This is a stylized procedural asset pass awaiting Rock art approval, not a claim of final film-closeup topology/animation approval. No character interiors, physics suspension, flight simulation, steering rig, automatic flashing animation, full film scenes, audio, or animated chase shots were requested or produced; independent rotation controls are provided for shot animation. Night appearance is reproducible separate preview, not a destructive replacement of main saved Hero material/look.
+All original self-generated geometry/materials, no downloaded asset/model/texture, no registration or purchase; CC0 dedication remains LICENSE.txt. Blender itself keeps its own upstream license.
+
+
+=== Night materials / cockpit extension ===
+STRAY Hero night-material / cockpit extension — tested delivery
+Blender 4.5.3 LTS, actual Codex CLI generation plus image-guided refinement and precise-bound validator fix. Only delivery directory written. No Mac or other pipeline directories used.
+
+Original assets.blend preserved byte-for-byte. SHA256: 4abbfbffba861de309978fdc225d803ac6cadf38273c151547c73e1baa7cd00f
+New file: assets_night.blend. Contains all four previous assets and new Hero_Cockpit child collection under Hero. The night paint material and transmissive clean glazing are saved in this variant, not merely preview memory.
+
+Reusable material-only entry:
+from runpy import run_path
+apply_hero_night_materials = run_path('/workspace/stray/assets/codex/hero_night_materials.py')['apply_hero_night_materials']
+apply_hero_night_materials()  # clear glass for windshield/cockpit shots
+apply_hero_night_materials(glass='dark')  # opaque exterior glass option
+Optional root=existing_hero_root supports renamed imports. It returns paint/glass material datablocks. Idempotent; no geometry, lights, camera, world, transform or visibility changes. Does not save files automatically.
+
+Cockpit entry:
+build_cockpit = run_path('/workspace/stray/assets/codex/build_cockpit.py')['build_cockpit']
+build_cockpit()  # uses existing Hero_Root, no duplicate root
+prepare_cabin_opening(root) is also exposed. It copies the deck mesh privately and removes only hidden central faces beneath canopy, keeping source mesh and exterior silhouette/roof. build_cockpit calls it automatically.
+
+Hierarchy: Hero collection -> Hero_Cockpit child collection; objects Hero_Root -> Hero_CockpitRoot -> interior objects and Hero_MapAnchor. Cockpit root has identity local transform. Root coordinates remain meter / +Y forward / Z up. Anchor local-to-Hero position (0, -0.04, 0.715)m, zero rotation, unit scale; hologram plane XY, +Z normal, +Y forward. Driver preview camera (-0.327,-0.530,0.966)m toward (-0.290,0.680,0.876)m.
+
+Interior: dashboard, steering wheel/spokes, digital instruments, center display/console, two seat cushions and backs, inner door cards/sill trim/headliner/floor. Existing front and side glass remain separate and get clear low-roughness transmission. No character or hologram map included; Hero_MapAnchor is the placement interface.
+
+Actual rendered inspection: hero_cockpit_preview.png shows unobstructed steering wheel, digital dashboard, windshield, mirrors/side glass, road and cyan/magenta markers outside. hero_cockpit_shoulder.png preserves first rear-shoulder view. Both are actual Blender geometry renders, not generated image stand-ins. Preview_Cockpit holds camera/lights/road markers, independent of asset and removable. Demo road is preview only, not film scene.
+
+Runtime: build/save/render exit0; cockpit validator exit0. 40/40 dedicated checks passed. Validates original hash, 4 assets, one existing Hero_Root, hierarchy, anchor axes, two builds idempotent without data growth, preservation of external objects/collections, repeated material IDs/settings, NO scene/light/camera/geometry/visibility material side effects, actual evaluated mesh/curve/font vertex bounds, exterior/roof unchanged, interior containment, hidden deck clearance, driver/passenger/camera windshield rays and forward clearance.
+Exterior true evaluated min(-1.004,-2.446699,0) max(1.004,2.412993,1.2)m unchanged. Interior true min(-.655,-1.1345,.28) max(.655,.726,1.101361)m. Root/scales unchanged.
+CPU Cycles24 samples denoised1280x800, fixed4threads, only sequential single Blender processes.
+
+Commands (from this directory):
+./blender-4.5.3-linux-x64/blender -b assets.blend -t 4 --python-exit-code 1 --python build_cockpit.py -- --render
+./blender-4.5.3-linux-x64/blender -b assets_night.blend -t 4 --python-exit-code 1 --python validate_cockpit.py
+
+Append workflow: append Hero collection from assets_night.blend, which brings Hero_Cockpit child and original root. If Hero already exists in shot, run helpers instead of appending Hero_Cockpit alone (avoids importing a second parent root). Pipeline must choose new variant explicitly; old assets.blend unchanged.
+
+Scope/limitations: lightweight readable interior, not detailed simulation cockpit. Hologram content, characters, steering animation rig, shot/path animation, film/audio not produced. No whole fly-through trajectory was rendered; sampled interior sightline and clearance tests pass, so final push-through camera path still needs shot-specific checking. Geometry integration is not final film art approval. Original procedural CC0, no paid downloads/registration.

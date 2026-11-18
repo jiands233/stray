@@ -1,0 +1,202 @@
+[
+  {
+    "file": "/workspace/stray/previews/repairs_v5/tanker_collision.mp4",
+    "story_start": 20,
+    "story_end": 25,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "759117"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/cockpit.mp4",
+    "story_start": 31,
+    "story_end": 36,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "763508"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/street_curl.mp4",
+    "story_start": 35,
+    "story_end": 40,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "803177"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/ring_context.mp4",
+    "story_start": 40,
+    "story_end": 45,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "630991"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/screen_context.mp4",
+    "story_start": 45,
+    "story_end": 50,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "806404"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/cliff_reveal.mp4",
+    "story_start": 49,
+    "story_end": 54,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "764375"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/fall_ignition.mp4",
+    "story_start": 53,
+    "story_end": 58,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "60"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "841336"
+      }
+    }
+  },
+  {
+    "file": "/workspace/stray/previews/repairs_v5/flight_tunnel.mp4",
+    "story_start": 56,
+    "story_end": 60,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 640,
+          "height": 360,
+          "r_frame_rate": "12/1",
+          "nb_frames": "48"
+        },
+        {
+          "r_frame_rate": "0/0",
+          "nb_frames": "189"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "741611"
+      }
+    }
+  }
+]

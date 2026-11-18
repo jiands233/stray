@@ -1,0 +1,602 @@
+[
+  {
+    "story_time": 20.0,
+    "hero_center_ndc": [
+      9.1536,
+      -12.9295,
+      0.8634
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_5"
+  },
+  {
+    "story_time": 20.083333333333332,
+    "hero_center_ndc": [
+      3.9766,
+      -4.8765,
+      2.1546
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_5"
+  },
+  {
+    "story_time": 20.166666666666668,
+    "hero_center_ndc": [
+      2.5029,
+      -2.5921,
+      3.6915
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 20.25,
+    "hero_center_ndc": [
+      1.802,
+      -1.5122,
+      5.5037
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 20.333333333333332,
+    "hero_center_ndc": [
+      1.3984,
+      -0.8946,
+      7.5857
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 20.416666666666668,
+    "hero_center_ndc": [
+      1.1771,
+      -0.5534,
+      9.5564
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_4"
+  },
+  {
+    "story_time": 20.5,
+    "hero_center_ndc": [
+      1.043,
+      -0.3439,
+      11.3317
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 20.583333333333332,
+    "hero_center_ndc": [
+      0.9525,
+      -0.2005,
+      12.929
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 20.666666666666668,
+    "hero_center_ndc": [
+      0.8866,
+      -0.0946,
+      14.3657
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 20.75,
+    "hero_center_ndc": [
+      0.8357,
+      -0.0117,
+      15.6599
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 20.833333333333332,
+    "hero_center_ndc": [
+      0.7948,
+      0.0562,
+      16.8155
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_3"
+  },
+  {
+    "story_time": 20.916666666666668,
+    "hero_center_ndc": [
+      0.7624,
+      0.1143,
+      17.7945
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  },
+  {
+    "story_time": 21.0,
+    "hero_center_ndc": [
+      0.7357,
+      0.1668,
+      18.6374
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  },
+  {
+    "story_time": 21.083333333333332,
+    "hero_center_ndc": [
+      0.7125,
+      0.2159,
+      19.39
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.166666666666668,
+    "hero_center_ndc": [
+      0.6915,
+      0.2629,
+      20.0985
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.25,
+    "hero_center_ndc": [
+      0.6716,
+      0.3085,
+      20.81
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.333333333333332,
+    "hero_center_ndc": [
+      0.6522,
+      0.3528,
+      21.5723
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.416666666666668,
+    "hero_center_ndc": [
+      0.6331,
+      0.3955,
+      22.4306
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.5,
+    "hero_center_ndc": [
+      0.6152,
+      0.4355,
+      23.3003
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.583333333333332,
+    "hero_center_ndc": [
+      0.5987,
+      0.4724,
+      24.1431
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.666666666666668,
+    "hero_center_ndc": [
+      0.5832,
+      0.5063,
+      24.9798
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.75,
+    "hero_center_ndc": [
+      0.5682,
+      0.5373,
+      25.8307
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_shell"
+  },
+  {
+    "story_time": 21.833333333333332,
+    "hero_center_ndc": [
+      0.5537,
+      0.5653,
+      26.716
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  },
+  {
+    "story_time": 21.916666666666668,
+    "hero_center_ndc": [
+      0.5394,
+      0.5899,
+      27.6558
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  },
+  {
+    "story_time": 22.0,
+    "hero_center_ndc": [
+      0.5253,
+      0.6112,
+      28.6697
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_1"
+  },
+  {
+    "story_time": 22.083333333333332,
+    "hero_center_ndc": [
+      0.5112,
+      0.6287,
+      29.777
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_1"
+  },
+  {
+    "story_time": 22.166666666666668,
+    "hero_center_ndc": [
+      0.4972,
+      0.6426,
+      30.9968
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_0"
+  },
+  {
+    "story_time": 22.25,
+    "hero_center_ndc": [
+      0.4836,
+      0.6528,
+      32.3244
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_0"
+  },
+  {
+    "story_time": 22.333333333333332,
+    "hero_center_ndc": [
+      0.4706,
+      0.6602,
+      33.7006
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 22.416666666666668,
+    "hero_center_ndc": [
+      0.4582,
+      0.6654,
+      35.1222
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 22.5,
+    "hero_center_ndc": [
+      0.4465,
+      0.6688,
+      36.5883
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 22.583333333333332,
+    "hero_center_ndc": [
+      0.4353,
+      0.6708,
+      38.0977
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 22.666666666666668,
+    "hero_center_ndc": [
+      0.4248,
+      0.6716,
+      39.6499
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 22.75,
+    "hero_center_ndc": [
+      0.4149,
+      0.6714,
+      41.2442
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "V5 comic impact rays.001"
+  },
+  {
+    "story_time": 22.833333333333332,
+    "hero_center_ndc": [
+      0.4055,
+      0.6707,
+      42.8797
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 22.916666666666668,
+    "hero_center_ndc": [
+      0.3967,
+      0.6694,
+      44.5562
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.0,
+    "hero_center_ndc": [
+      0.3884,
+      0.6678,
+      46.2729
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.083333333333332,
+    "hero_center_ndc": [
+      0.3807,
+      0.666,
+      48.0295
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.166666666666668,
+    "hero_center_ndc": [
+      0.3735,
+      0.6641,
+      49.826
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.25,
+    "hero_center_ndc": [
+      0.3669,
+      0.6622,
+      51.6619
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.333333333333332,
+    "hero_center_ndc": [
+      0.3602,
+      0.6609,
+      53.4316
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.008"
+  },
+  {
+    "story_time": 23.416666666666668,
+    "hero_center_ndc": [
+      0.3481,
+      0.6643,
+      54.2
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.008"
+  },
+  {
+    "story_time": 23.5,
+    "hero_center_ndc": [
+      0.3287,
+      0.6734,
+      53.8388
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.008"
+  },
+  {
+    "story_time": 23.583333333333332,
+    "hero_center_ndc": [
+      0.3,
+      0.6886,
+      52.4406
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.008"
+  },
+  {
+    "story_time": 23.666666666666668,
+    "hero_center_ndc": [
+      0.2587,
+      0.7098,
+      50.109
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.75,
+    "hero_center_ndc": [
+      0.2006,
+      0.7343,
+      46.8559
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.833333333333332,
+    "hero_center_ndc": [
+      0.1253,
+      0.754,
+      42.6404
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "inked comic blast.017"
+  },
+  {
+    "story_time": 23.916666666666668,
+    "hero_center_ndc": [
+      0.0371,
+      0.7596,
+      37.9553
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 24.0,
+    "hero_center_ndc": [
+      -0.0261,
+      0.7337,
+      33.5622
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 24.083333333333332,
+    "hero_center_ndc": [
+      -0.0775,
+      0.7006,
+      30.2387
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Sculpted_deck"
+  },
+  {
+    "story_time": 24.166666666666668,
+    "hero_center_ndc": [
+      -0.0738,
+      0.6631,
+      28.4109
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_0"
+  },
+  {
+    "story_time": 24.25,
+    "hero_center_ndc": [
+      -0.0132,
+      0.6306,
+      27.9807
+    ],
+    "center_inside_frame": false,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_0"
+  },
+  {
+    "story_time": 24.333333333333332,
+    "hero_center_ndc": [
+      0.0821,
+      0.5991,
+      28.44
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Side_glass_L_0"
+  },
+  {
+    "story_time": 24.416666666666668,
+    "hero_center_ndc": [
+      0.1841,
+      0.5603,
+      29.1564
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  },
+  {
+    "story_time": 24.5,
+    "hero_center_ndc": [
+      0.2744,
+      0.5141,
+      29.6853
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 24.583333333333332,
+    "hero_center_ndc": [
+      0.3459,
+      0.4676,
+      29.9316
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 24.666666666666668,
+    "hero_center_ndc": [
+      0.3976,
+      0.427,
+      29.6498
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 24.75,
+    "hero_center_ndc": [
+      0.4338,
+      0.3925,
+      28.5659
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Backlight"
+  },
+  {
+    "story_time": 24.833333333333332,
+    "hero_center_ndc": [
+      0.4625,
+      0.3621,
+      27.0994
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  },
+  {
+    "story_time": 24.916666666666668,
+    "hero_center_ndc": [
+      0.4867,
+      0.3349,
+      25.5549
+    ],
+    "center_inside_frame": true,
+    "first_object_on_camera_to_hero": "Hero_Roof_rail_L"
+  }
+]

@@ -1,0 +1,245 @@
+{
+  "blender_version": "4.5.3 LTS",
+  "codex_version": "0.170.0",
+  "validation_passed": true,
+  "checks_passed": 376,
+  "dimensions_m": {
+    "Hero": {
+      "width": 2.007999897003174,
+      "length": 4.859691858291626,
+      "height": 1.2000000476837158
+    },
+    "Police": {
+      "width": 2.2360000610351562,
+      "length": 5.269500017166138,
+      "height": 1.5709999799728394
+    },
+    "Heli": {
+      "width": 9.792708396911621,
+      "length": 12.568586826324463,
+      "height": 3.9639718532562256
+    },
+    "Truck": {
+      "width": 2.7660000324249268,
+      "length": 9.524499893188477,
+      "height": 3.4927783012390137
+    }
+  },
+  "files": {
+    "assets.blend": {
+      "bytes": 10655658,
+      "sha256": "4abbfbffba861de309978fdc225d803ac6cadf38273c151547c73e1baa7cd00f"
+    },
+    "build_assets.py": {
+      "bytes": 67071,
+      "sha256": "508e08667a59c0ec14bc1a405a90655755358a1af6aec1b2d630af73416ac8d6"
+    },
+    "validate_assets.py": {
+      "bytes": 17147,
+      "sha256": "f27294e0858be962a933e15f7636746e88e41cb81d86fa12c1e3d536b052de35"
+    },
+    "render_hero_night.py": {
+      "bytes": 4118,
+      "sha256": "13a769cb927bdec4556aacf91e742164391f6f238cbbb2229061b6741d670636"
+    },
+    "README.md": {
+      "bytes": 9995,
+      "sha256": "1d8470d5b4c595dc32a1812229444d5b49cff7bc3c9ebd811d5985135209dfee"
+    },
+    "LICENSE.txt": {
+      "bytes": 367,
+      "sha256": "7e97522cf8b285858c0782e029d67098eb4568ba3096acbc0b43325ee2c69621"
+    },
+    "environment.txt": {
+      "bytes": 2114,
+      "sha256": "80c6a2668c34bc83639615133d46432de7eaed79cc7e78016d2ac6095220ab9e"
+    },
+    "delivery_report.txt": {
+      "bytes": 9642,
+      "sha256": "4affba52f465bebce6f0088688d72f3135e9625c9ade50f56f567a9afa798890"
+    },
+    "validation.json": {
+      "bytes": 21152,
+      "sha256": "c9dc2bb0ae98b28809b9b680115a8a57f16b3bb89258bfc2e405b7add01d7baa"
+    },
+    "validation.log": {
+      "bytes": 203,
+      "sha256": "a056d2fdc9825938a8b33428bc64a9ff1a90cda0c9f22c427f76a237358a3973"
+    },
+    "fleet_render.log": {
+      "bytes": 171967,
+      "sha256": "fbebfa5be0e3646f8a4949c83e73231f9e3e4b17ea37c7bea5ad12f8d0c2ba32"
+    },
+    "truck_fix_render.log": {
+      "bytes": 107202,
+      "sha256": "db826cf9d522c33047724a20b398ce02a75eaea814393b99618bbe6be8c92ed5"
+    },
+    "hero_night.log": {
+      "bytes": 48604,
+      "sha256": "6e7bfdd8999d887280a231c68c845db558b885af9e41492ae5540186e1177398"
+    },
+    "hero_front_34.png": {
+      "bytes": 1149667,
+      "sha256": "df7ebd2924d227b799805a28e738eb8242ea628ea60fe8eec9dc5cd215dcf6cb"
+    },
+    "hero_rear_34.png": {
+      "bytes": 1130690,
+      "sha256": "084767f25652d5bf647cb112b8593f096240a20c3a5ce027a4c92b858bbfe540"
+    },
+    "hero_side.png": {
+      "bytes": 1111519,
+      "sha256": "26fc5b6aaa68ec13c169beb5bdce64df19f08068ab879561a94f0990a9d14138"
+    },
+    "police_preview.png": {
+      "bytes": 1173828,
+      "sha256": "3df1ed3e4e6243a0039f46be97654b77135bd5e6400bfde043db358af3566aa3"
+    },
+    "heli_preview.png": {
+      "bytes": 1128160,
+      "sha256": "a79b8e973ea92a49f735cf35b859bb961ddc6f43a935fd089c32b3fe8e03de0e"
+    },
+    "truck_preview.png": {
+      "bytes": 1253598,
+      "sha256": "dd6d9ab3a42b340d2b4d5526051a03f77bddf9b78bc48252a90698c4d0d36453"
+    },
+    "hero_night.png": {
+      "bytes": 521376,
+      "sha256": "20f4f15f3ee73daaa99badb26e38af8c2630ac1334957fb046f7c37945f0e4cf"
+    },
+    "fleet_contact_sheet.jpg": {
+      "bytes": 309769,
+      "sha256": "438769f2cde5b26623e158e8e4b225fc2433fbd880ad19ca83eb45c7f8a62edf"
+    },
+    "fleet_night_contact_sheet.jpg": {
+      "bytes": 297082,
+      "sha256": "98e5e395e9d81cc083f78a0763149e955e5f4b27603740cdcaff7bfefcdb9b31"
+    },
+    "codex_exec.log": {
+      "bytes": 52201,
+      "sha256": "9ddfdd365a9067cbed7e6c94d3133c3fae701093c2e9cf7a3af052278c901244"
+    },
+    "codex_fix.log": {
+      "bytes": 132862,
+      "sha256": "94615c804dc6a1af1dff824f8984d98a01f08bf112e6879ba7717d28cf69e696"
+    },
+    "codex_fix_result.txt": {
+      "bytes": 805,
+      "sha256": "14e9df2374951d8a35db1c9243dcce1ce328671872033444e8ee45409c589cca"
+    },
+    "codex_fleet.log": {
+      "bytes": 96179,
+      "sha256": "a9656d84fa0f14e9e367e95a2fb720f5476e54b06faea61ab9878756bc033d22"
+    },
+    "codex_fleet_fix.log": {
+      "bytes": 527639,
+      "sha256": "69c1c5f0c546b8ddec56d4d1a2abc9d6de8f531af2f8bd263c20a3df94a61272"
+    },
+    "codex_fleet_fix_result.txt": {
+      "bytes": 859,
+      "sha256": "a5779eb77cfd8eddb17afb649e03f27024df08c7283a21ad70b5db12b4ea0e16"
+    },
+    "codex_fleet_result.txt": {
+      "bytes": 1123,
+      "sha256": "a4fb4d11d71b2d3e52609f4cf68484f43dc5f2d20fc62301e30e6068517062b4"
+    },
+    "codex_night.log": {
+      "bytes": 31438,
+      "sha256": "cd73ba6c63717b40de83550a6c8ae5f9f9267e48361f3e2b5756548de9a374e8"
+    },
+    "codex_night_fix.log": {
+      "bytes": 17160,
+      "sha256": "4dc3b6806206b7e7a274dbe75e0cd4123743eacc8aa9130d69cbed6efd3b4235"
+    },
+    "codex_night_fix_result.txt": {
+      "bytes": 624,
+      "sha256": "3b8971f7981474d1202ebf5d86dc7bd8878f3363ad2e24822acda454d8d81949"
+    },
+    "codex_night_result.txt": {
+      "bytes": 769,
+      "sha256": "6b3acdd915498f896ed0aa427a4bf16c188658da506034782bc79d1426ad8fc9"
+    },
+    "codex_result.txt": {
+      "bytes": 639,
+      "sha256": "02609e2d34f0291f4e7d8d90a8b16a718efec3ae1252be839eddbb98790739db"
+    },
+    "codex_truck_fix.log": {
+      "bytes": 76286,
+      "sha256": "20e10ac09f294b36679605305c4d7170b36696d6098f29955340f09e2aa8faf1"
+    },
+    "codex_truck_fix_result.txt": {
+      "bytes": 648,
+      "sha256": "ae8fb3b1b5533598344f73689047f1d15f121cda20063227fc17cff7bc161ddf"
+    },
+    "codex_truck_runtime.log": {
+      "bytes": 30655,
+      "sha256": "149d280c075ad0924e7a89078694389311d017c75f3f14ae9c33373f8393fc50"
+    },
+    "codex_truck_runtime_result.txt": {
+      "bytes": 607,
+      "sha256": "05a69544b14a019a24aef51768591d96b22804a5e97f9e4b3a4700ba562a275e"
+    },
+    "assets_night.blend": {
+      "bytes": 11525303,
+      "sha256": "6047822f4d74e6a81da36b0d44e39cbaf6c10817b4400f45b8b929c3c6fcf4e0"
+    },
+    "hero_night_materials.py": {
+      "bytes": 2816,
+      "sha256": "99c1a7c224a59581349bc415aa97c79614c503500febb70aa07865ebe5065b2b"
+    },
+    "build_cockpit.py": {
+      "bytes": 14494,
+      "sha256": "0268c1d64c93f51902776c3310cc2caf21a8d5f4e6f2f7b68a8fffcbf9de095c"
+    },
+    "validate_cockpit.py": {
+      "bytes": 14232,
+      "sha256": "7c19eb8cf6497e6d7d09d3beb9a5966c039a8d0e0a01a289044be79773714bee"
+    },
+    "hero_cockpit_preview.png": {
+      "bytes": 1000580,
+      "sha256": "44b7d795253be0474df953f5d2a3df5104342e60ed1bc32ac10937713a551cf1"
+    },
+    "hero_cockpit_shoulder.png": {
+      "bytes": 969812,
+      "sha256": "7c2cdd296c26e34182e098dbc27769239807602e4faa6619ea7a2e25099a2ede"
+    },
+    "cockpit_validation.json": {
+      "bytes": 2641,
+      "sha256": "e38af4713e6235691af125beaf71a98224dbecf6952e4d1d8d2086c908b2d83b"
+    },
+    "cockpit_build_render.log": {
+      "bytes": 63087,
+      "sha256": "2633bd89ddb6e2a904356d39c240ffec4fafdc6f7ca5b83d41671453260df9d4"
+    },
+    "cockpit_validation.log": {
+      "bytes": 141,
+      "sha256": "9d7dfb8718341c0b4620669bafd932b29194a68e00600da8d4eca00992754898"
+    },
+    "cockpit_delivery_report.txt": {
+      "bytes": 4582,
+      "sha256": "66365c12071db3e441ccc19a9e52881df18276332ef1e59cf340089a07331ebe"
+    },
+    "assets_original.sha256": {
+      "bytes": 79,
+      "sha256": "4b663f0776aa34bd7d646a141f3f710a8b17d63904937e473528e7387753a6b0"
+    },
+    "codex_cockpit.log": {
+      "bytes": 84600,
+      "sha256": "98ff667a4cd0dbb46a802a68db5a2a4ab4e4a4e8b0381796bfc1b12047ff7ab4"
+    },
+    "codex_cockpit_result.txt": {
+      "bytes": 1012,
+      "sha256": "04e9136719de087a2fc0ee4dac1729e1a6101e8dc1ecc4a2c9a41c8a033f7fb4"
+    },
+    "codex_cockpit_fix.log": {
+      "bytes": 65212,
+      "sha256": "54de3ad7a8eb46a9d502d869577b3949fb11847107f0371546927df4555f8a30"
+    },
+    "codex_cockpit_fix_result.txt": {
+      "bytes": 856,
+      "sha256": "09e3de333d306226689982a6c71cbb403f61e56410857c345e95c8157db36830"
+    }
+  },
+  "cockpit_validation_passed": true,
+  "cockpit_checks_passed": 40,
+  "original_assets_sha256": "4abbfbffba861de309978fdc225d803ac6cadf38273c151547c73e1baa7cd00f"
+}

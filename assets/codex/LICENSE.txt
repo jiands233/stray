@@ -1,0 +1,8 @@
+STRAY Hero Hypercar — original procedural asset and accompanying source files.
+
+To the extent possible under law, the creator has waived all copyright and
+related or neighboring rights to this work under CC0 1.0 Universal.
+The work is provided as-is and without warranties.
+
+CC0 1.0 Universal legal text:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
